@@ -1,0 +1,14 @@
+(function(){
+  if (!document.body.classList.contains('b4y-service-page')) return;
+  // Detect the existing theme header without modifying it or duplicating menus.
+  const header = document.querySelector('header.site-header, header#masthead, header.b4y-header, .b4y-header, .site-header, body > header');
+  if (header && !header.closest('.b4y-service-wrap')) header.classList.add('b4y-service-header');
+  const blocks = document.querySelectorAll('.b4y-service-row');
+  if ('IntersectionObserver' in window && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    const io = new IntersectionObserver(function(entries){
+      for (const e of entries) if(e.isIntersecting) {e.target.classList.add('b4y-visible');io.unobserve(e.target);}
+    },{threshold:0.04});
+    for(const el of blocks) io.observe(el);
+  }
+})();
+

@@ -1,0 +1,29 @@
+/* B4YS_SCROLL_STATES_PARALLAX_20261022
+   Niezalezny stan menu na podstronach Oferty i efekt parallax z ruchem 0.2. */
+(()=>{
+ 'use strict';
+ if(!document.body.classList.contains('b4ys-service-page'))return;
+ const body=document.body;
+ const pictures=[...document.querySelectorAll('.b4ys-parallax')];
+ const motion=!(window.matchMedia&&window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+ let queued=false;
+ function update(){
+   queued=false;
+   body.classList.toggle('b4ys-header-solid',window.scrollY>65);
+   if(!motion)return;
+   for(const el of pictures){
+     const r=el.getBoundingClientRect();
+     if(r.bottom<0||r.top>window.innerHeight)continue;
+     // Oryginalna Joomla: jQuery.parallax("50%", 0.2).
+     // Widoczny, ale ograniczony do 85px ruch tla wzgledem kontenera.
+     const progress=Math.min(1,Math.max(0,(window.innerHeight-r.top)/(window.innerHeight+r.height)));
+     const pixels=(progress-.5)*170;
+     el.style.setProperty('--b4ys-parallax-offset',pixels.toFixed(1)+'px');
+   }
+ }
+ function queue(){if(!queued){queued=true;window.requestAnimationFrame(update)}}
+ window.addEventListener('scroll',queue,{passive:true});
+ window.addEventListener('resize',queue,{passive:true});
+ window.addEventListener('pageshow',queue);
+ update();
+})();

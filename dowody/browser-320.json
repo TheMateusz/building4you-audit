@@ -1,0 +1,92 @@
+{
+  "clientWidth": 305,
+  "overflow": [
+    {
+      "cls": "b4y-footer-company",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-company-name",
+      "right": 328.765625,
+      "tag": "P",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-contact",
+      "right": 328.765625,
+      "tag": "ADDRESS",
+      "width": 310.765625
+    },
+    {
+      "cls": "",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-caption",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-address",
+      "right": 328.765625,
+      "tag": "P",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-connect",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-social-head",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-newsletter",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-caption",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "b4y-footer-newsletter-controls",
+      "right": 328.765625,
+      "tag": "DIV",
+      "width": 310.765625
+    },
+    {
+      "cls": "",
+      "right": 328.765625,
+      "tag": "BUTTON",
+      "width": 100.765625
+    },
+    {
+      "cls": "b4y-footer-note",
+      "right": 328.765625,
+      "tag": "P",
+      "width": 310.765625
+    }
+  ],
+  "scrollWidth": 329,
+  "url": "https://www.building4you.pl/hale-przemyslowe/",
+  "viewport": 320
+}

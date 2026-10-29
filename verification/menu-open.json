@@ -1,0 +1,17 @@
+{
+  "active": "O nas",
+  "links": [
+    {
+      "foreground": "rgb(255, 255, 255)",
+      "parentBackground": "rgb(255, 255, 255)",
+      "text": "O firmie",
+      "visibility": "visible"
+    },
+    {
+      "foreground": "rgb(255, 255, 255)",
+      "parentBackground": "rgb(255, 255, 255)",
+      "text": "Referencje",
+      "visibility": "visible"
+    }
+  ]
+}

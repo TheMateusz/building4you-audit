@@ -1,0 +1,324 @@
+- banner:
+  - link "PageSpeed Insights logo PageSpeed Insights":
+    - /url: ./
+    - img "PageSpeed Insights logo"
+    - generic: PageSpeed Insights
+  - button "Kopiuj link":
+    - generic: Kopiuj link
+  - generic: Dokumentacja
+  - link "Dokumentacja":
+    - /url: https://developers.google.com/speed/docs/insights/v5/about
+- generic: Na tej stronie używamy plików cookie Google, aby móc świadczyć Ci usługi i analizować ruch.
+- generic: Więcej informacji
+- link "Więcej informacji":
+  - /url: https://policies.google.com/technologies/cookies
+- button "OK":
+  - generic: OK
+- generic: Raport z 27 paź 2026, 11:07:59
+- textbox:
+  - /placeholder: Podaj URL strony internetowej
+  - text: https://www.building4you.pl/
+- paragraph: Wpisz prawidłowy URL
+- button "Analizuj":
+  - generic: Analizuj
+- tablist:
+  - tab "Komórka" [selected]:
+    - generic: smartphone
+    - generic: Komórka
+  - tab "Stacjonarny":
+    - generic: computer
+    - generic: Stacjonarny
+- tabpanel "Komórka":
+  - generic: Dowiedź się, jakie są wrażenia użytkowników
+  - button "button":
+  - generic: Brak danych
+  - separator
+  - generic: Rozpoznawaj problemy z wydajnością
+  - article:
+    - link "Błąd Wydajność":
+      - /url: "#performance"
+      - generic "Błąd"
+      - generic: Wydajność
+    - link "96 Ułatwienia dostępu":
+      - /url: "#accessibility"
+      - generic: "96"
+      - generic: Ułatwienia dostępu
+    - link "100 Sprawdzone metody":
+      - /url: "#best-practices"
+      - generic: "100"
+      - generic: Sprawdzone metody
+    - link "92 SEO":
+      - /url: "#seo"
+      - generic: "92"
+      - generic: SEO
+    - link "2/2 Przeglądanie agentowe":
+      - /url: "#agentic-browsing"
+      - generic: 2/2
+      - generic: Przeglądanie agentowe
+    - heading "Błąd Wydajność" [level=2]:
+      - generic "Błąd"
+      - generic: Wydajność
+    - text: Wartości są szacunkowe i mogą się zmieniać.
+    - link "Wynik wydajności jest obliczony":
+      - /url: https://developer.chrome.com/docs/lighthouse/performance/performance-scoring/?utm_source=lighthouse&utm_medium=lr
+    - text: bezpośrednio na podstawie tych danych.
+    - link "Zobacz kalkulator.":
+      - /url: https://googlechrome.github.io/lighthouse/scorecalc/#FCP=1201&LCP=null&TBT=null&CLS=0.07&SI=1201&TTI=null&device=mobile&version=13.5.0
+    - generic: 0–49
+    - generic: 50–89
+    - generic: 90–100
+    - img "Final Screenshot"
+    - checkbox "Toggle the display of metric descriptions" [checked]
+    - generic: Dane
+    - generic: Zwiń widok
+    - generic: First Contentful Paint
+    - generic: 1,2 s
+    - text: Pierwsze wyrenderowanie treści oznacza czas wyrenderowania pierwszego tekstu lub obrazu.
+    - link "Więcej informacji o danych pierwszego wyrenderowania treści":
+      - /url: https://developer.chrome.com/docs/lighthouse/performance/first-contentful-paint/?utm_source=lighthouse&utm_medium=lr
+    - generic: Wyrenderowanie największej części treści
+    - generic: Error!
+    - generic: NO_LCP
+    - generic: Total Blocking Time
+    - generic: Error!
+    - generic: NO_LCP
+    - generic: Cumulative Layout Shift
+    - generic: "0.07"
+    - text: Zbiorcze przesunięcie układu to miara ruchu elementów w widocznym obszarze.
+    - link "Więcej informacji o danych dotyczących zbiorczego przesunięcia układu":
+      - /url: https://web.dev/articles/cls?utm_source=lighthouse&utm_medium=lr
+    - generic: Speed Index
+    - generic: 1,2 s
+    - text: Speed Index wskazuje, jak szybko strona zapełnia się widocznymi treściami.
+    - link "Więcej informacji o danych Speed Index":
+      - /url: https://developer.chrome.com/docs/lighthouse/performance/speed-index/?utm_source=lighthouse&utm_medium=lr
+    - list:
+      - listitem: Captured at 27 paź 2026, 11:08 CET
+      - listitem: Emulacja Moto G Power with Lighthouse 13.5.0
+      - listitem: Sesja ograniczona do jednej strony
+      - listitem: Wstępne wczytanie strony
+      - listitem: Ograniczanie spowalniające do 4G
+      - listitem: Using HeadlessChromium 153.0.8010.36 with lr
+    - button "Pokaż diagram"
+    - img "Screenshot"
+    - img "Screenshot"
+    - img "Screenshot"
+    - img "Screenshot"
+    - img "Screenshot"
+    - img "Screenshot"
+    - img "Screenshot"
+    - img "Screenshot"
+    - generic: "Pokaż audyty dotyczące:"
+    - radio "All" [checked]
+    - generic: All
+    - radio "FCP"
+    - generic "First Contentful Paint": FCP
+    - radio "LCP"
+    - generic "Wyrenderowanie największej części treści": LCP
+    - radio "CLS"
+    - generic "Cumulative Layout Shift": CLS
+    - generic: Statystyki
+    - 'generic "Używaj efektywnego czasu przechowywania w pamięci podręcznej —Szacunkowe zmniejszenie rozmiaru: 85 KiB"':
+      - generic: Używaj efektywnego czasu przechowywania w pamięci podręcznej
+      - text: "—Szacunkowe zmniejszenie rozmiaru: 85 KiB"
+    - generic "Wymuszone przeformatowanie":
+      - generic: Wymuszone przeformatowanie
+    - 'generic "Ulepsz dostarczanie obrazów —Szacunkowe zmniejszenie rozmiaru: 459 KiB"':
+      - generic: Ulepsz dostarczanie obrazów
+      - text: "—Szacunkowe zmniejszenie rozmiaru: 459 KiB"
+    - generic "Prośby o zablokowanie renderowania":
+      - generic: Prośby o zablokowanie renderowania
+    - 'generic "Wyświetlanie czcionki —Szacunkowe przyspieszenie: 10 ms"':
+      - generic: Wyświetlanie czcionki
+      - text: "—Szacunkowe przyspieszenie: 10 ms"
+    - generic "Przyczyny problemów związanych z przesunięciem układu":
+      - generic: Przyczyny problemów związanych z przesunięciem układu
+    - generic "Optymalizuj rozmiar DOM":
+      - generic: Optymalizuj rozmiar DOM
+    - text: Te statystyki są też dostępne na panelu Wydajność w Narzędziach deweloperskich w Chrome –
+    - link "nagraj ślad":
+      - /url: https://developer.chrome.com/docs/devtools/performance/reference?utm_source=lighthouse&utm_medium=lr
+    - text: ", aby wyświetlić bardziej szczegółowe informacje."
+    - generic: Diagnostyka
+    - generic "Minifikuj CSS —Błąd":
+      - generic: Minifikuj CSS
+      - generic: —Błąd
+    - generic "Minifikuj JavaScript —Błąd":
+      - generic: Minifikuj JavaScript
+      - generic: —Błąd
+    - generic "Ogranicz nieużywany kod CSS —Błąd":
+      - generic: Ogranicz nieużywany kod CSS
+      - generic: —Błąd
+    - generic "Ogranicz nieużywany JavaScript —Błąd":
+      - generic: Ogranicz nieużywany JavaScript
+      - generic: —Błąd
+    - generic "Unikaj długich zadań w wątku głównym —Błąd":
+      - generic: Unikaj długich zadań w wątku głównym
+      - generic: —Błąd
+    - generic "Elementy graficzne nie mają bezpośrednio określonych atrybutów width ani height":
+      - text: Elementy graficzne nie mają bezpośrednio określonych atrybutów
+      - code: width
+      - text: ani
+      - code: height
+    - generic "Unikaj bardzo dużych ładunków sieciowych —Łączny rozmiar to 9239 KiB":
+      - generic: Unikaj bardzo dużych ładunków sieciowych
+      - text: —Łączny rozmiar to 9239 KiB
+    - text: Więcej o wydajności aplikacji. Te liczby nie mają
+    - link "bezpośredniego wpływu":
+      - /url: https://developer.chrome.com/docs/lighthouse/performance/performance-scoring/?utm_source=lighthouse&utm_medium=lr
+    - text: na wyniki w kategorii Wydajność.
+    - generic "Zaliczone audyty (13) Pokaż":
+      - generic: Zaliczone audyty (13)
+      - generic: Pokaż
+    - text: — —
+    - heading "96 Ułatwienia dostępu" [level=2]:
+      - generic: "96"
+      - generic: Ułatwienia dostępu
+    - text: Te testy wskazują możliwości
+    - link "ulepszenia ułatwień dostępu w Twojej aplikacji internetowej":
+      - /url: https://developer.chrome.com/docs/lighthouse/accessibility/?utm_source=lighthouse&utm_medium=lr
+    - text: . Automatycznie wykrywane są tylko niektóre problemy, co nie daje gwarancji, że w Twojej aplikacji internetowej będą działać ułatwienia dostępu, dlatego zalecamy
+    - link "testy ręczne":
+      - /url: https://web.dev/articles/how-to-review?utm_source=lighthouse&utm_medium=lr
+    - text: .
+    - generic: Kontrast
+    - generic "Kolory tła i pierwszego planu mają niewystarczający współczynnik kontrastu.":
+      - generic: Kolory tła i pierwszego planu mają niewystarczający współczynnik kontrastu.
+    - generic: To są możliwości poprawy czytelności treści.
+    - generic: Dźwięk i obraz
+    - generic "Elementy <video> zawierają element <track> z atrybutem [kind=\"captions\"]":
+      - text: Elementy
+      - code: <video>
+      - text: zawierają element
+      - code: <track>
+      - text: z atrybutem
+      - code: "[kind=\"captions\"]"
+    - generic: To są możliwości dostarczenia alternatywnej treści dla audio i wideo. Dzięki temu treści mogą stać się bardziej przystępne dla osób niedowidzących i niedosłyszących.
+    - generic: Nazwy i etykiety
+    - generic "Elementy graficzne nie mają atrybutów [alt], które są nadmiarowym tekstem.":
+      - text: Elementy graficzne nie mają atrybutów
+      - code: "[alt]"
+      - text: ", które są nadmiarowym tekstem."
+    - generic: To są możliwości ulepszenia semantyki kontrolek aplikacji. Dzięki temu treści mogą stać się bardziej przystępne dla użytkowników technologii wspomagających, takich jak czytniki ekranu.
+    - generic: Sprawdzone metody
+    - generic "Identyczne linki mają to samo zastosowanie.":
+      - generic: Identyczne linki mają to samo zastosowanie.
+    - generic: Te pozycje wskazują typowe sprawdzone metody ułatwień dostępu.
+    - generic "Dodatkowe elementy do ręcznego sprawdzenia (10) Pokaż":
+      - generic: Dodatkowe elementy do ręcznego sprawdzenia (10)
+      - generic: Pokaż
+    - text: Te pozycje dotyczą obszarów, których narzędzie do testów automatycznych nie może zbadać. Więcej informacji w naszym przewodniku po
+    - link "prowadzeniu przeglądu ułatwień dostępu":
+      - /url: https://web.dev/articles/how-to-review?utm_source=lighthouse&utm_medium=lr
+    - text: .
+    - generic "Zaliczone audyty (25) Pokaż":
+      - generic: Zaliczone audyty (25)
+      - generic: Pokaż
+    - generic "Nie dotyczy (34) Pokaż":
+      - generic: Nie dotyczy (34)
+      - generic: Pokaż
+    - heading "100 Sprawdzone metody" [level=2]:
+      - generic: "100"
+      - generic: Sprawdzone metody
+    - generic: Zaufanie i bezpieczeństwo
+    - generic "Skonfiguruj CSP pod kątem ochrony przed atakami typu XSS":
+      - generic: Skonfiguruj CSP pod kątem ochrony przed atakami typu XSS
+    - generic "Używaj silnej zasady HSTS":
+      - generic: Używaj silnej zasady HSTS
+    - generic "Zapewnij prawidłowe izolowanie źródła za pomocą COOP":
+      - generic: Zapewnij prawidłowe izolowanie źródła za pomocą COOP
+    - generic "Ogranicz ataki typu clickjacking za pomocą XFO lub CSP":
+      - generic: Ogranicz ataki typu clickjacking za pomocą XFO lub CSP
+    - generic "Ograniczanie ataków typu XSS opartych na DOM przy użyciu dyrektywy Trusted Types":
+      - generic: Ograniczanie ataków typu XSS opartych na DOM przy użyciu dyrektywy Trusted Types
+    - generic: Zgodność z przeglądarką
+    - generic "Funkcje podstawowe":
+      - generic: Funkcje podstawowe
+    - generic: Ogólne
+    - generic "Wykryte biblioteki JavaScript":
+      - generic: Wykryte biblioteki JavaScript
+    - generic "Zaliczone audyty (13) Pokaż":
+      - generic: Zaliczone audyty (13)
+      - generic: Pokaż
+    - generic "Nie dotyczy (1) Pokaż":
+      - generic: Nie dotyczy (1)
+      - generic: Pokaż
+    - heading "92 SEO" [level=2]:
+      - generic: "92"
+      - generic: SEO
+    - text: Te testy sprawdzają, czy strona została utworzona z zastosowaniem podstawowych zaleceń dotyczących optymalizacji witryn pod kątem wyszukiwarek (SEO). Na pozycję strony w wyszukiwarce mogą wpływać inne czynniki, których Lighthouse nie sprawdza, np. wydajność mierzona za pomocą
+    - link "podstawowych wskaźników internetowych":
+      - /url: https://web.dev/explore/vitals?utm_source=lighthouse&utm_medium=lr
+    - text: .
+    - link "Dowiedz się więcej o podstawowych zasadach wyszukiwania w Google":
+      - /url: https://support.google.com/webmasters/answer/35769
+    - generic: Sprawdzone metody publikowania treści
+    - generic "Dokument nie ma metaopisu":
+      - generic: Dokument nie ma metaopisu
+    - generic: Dostosuj kod HTML w taki sposób, by roboty lepiej rozumiały zawartość aplikacji.
+    - generic "Dodatkowe elementy do ręcznego sprawdzenia (1) Pokaż":
+      - generic: Dodatkowe elementy do ręcznego sprawdzenia (1)
+      - generic: Pokaż
+    - generic: Uruchom te dodatkowe walidatory w swojej witrynie, by skontrolować więcej sprawdzonych metod SEO.
+    - generic "Zaliczone audyty (8) Pokaż":
+      - generic: Zaliczone audyty (8)
+      - generic: Pokaż
+    - generic "Nie dotyczy (1) Pokaż":
+      - generic: Nie dotyczy (1)
+      - generic: Pokaż
+    - heading "2/2 Przeglądanie agentowe" [level=2]:
+      - generic: 2/2
+      - generic: Przeglądanie agentowe
+    - text: Te kontrole zapewniają wysoką jakość
+    - link "witryn, które mogą przeglądać agenty AI":
+      - /url: https://goo.gle/lighthouse-agentic-web
+    - text: ", i potwierdzają poprawność integracji WebMCP. Ta kategoria jest nadal w trakcie opracowywania i może ulec zmianie."
+    - generic "Zaliczone audyty (2) Pokaż":
+      - generic: Zaliczone audyty (2)
+      - generic: Pokaż
+    - text: — —
+    - generic "Nie dotyczy (5) Pokaż":
+      - generic: Nie dotyczy (5)
+      - generic: Pokaż
+- text: — — — — — — — — — — — — —
+- contentinfo:
+  - generic: Więcej informacji o PageSpeed Insights
+  - link "Nowości":
+    - /url: https://developers.google.com/speed/docs/insights/release_notes
+  - link "Dokumentacja":
+    - /url: https://developers.google.com/speed/docs/insights/v5/about
+  - link "Informacje o Wydajności sieci":
+    - /url: https://developers.google.com/speed
+  - link "Zadaj pytanie dotyczące Stack Overflow":
+    - /url: https://stackoverflow.com/questions/tagged/pagespeed-insights
+  - link "Lista adresowa":
+    - /url: https://groups.google.com/g/pagespeed-insights-discuss
+  - generic: Powiązane treści
+  - link "Aktualizacje":
+    - /url: https://developer.chrome.com/blog
+  - link "Podstawy tworzenia witryn":
+    - /url: https://developers.google.com/focus/web-development
+  - link "Studia przypadków":
+    - /url: https://web.dev/case-studies
+  - link "Podcasty":
+    - /url: https://web.dev/shows
+  - generic: Połącz
+  - link "Twitter":
+    - /url: https://twitter.com/ChromiumDev
+  - link "YouTube":
+    - /url: https://www.youtube.com/user/ChromeDevelopers
+  - link "Google Developers Logo":
+    - /url: https://developers.google.com/
+    - img "Google Developers Logo"
+  - link "Chrome":
+    - /url: https://developer.chrome.com/
+  - link "Firebase":
+    - /url: https://firebase.google.com/
+  - link "Wszystkie usługi":
+    - /url: https://developers.google.com/products/
+  - link "Warunki usługi i Polityka prywatności":
+    - /url: https://policies.google.com/
+  - text: Szczegóły znajdziesz w
+  - link "zasadach korzystania z witryny Google Developers":
+    - /url: https://developers.google.com/terms/site-policies
+  - text: (w języku angielskim).

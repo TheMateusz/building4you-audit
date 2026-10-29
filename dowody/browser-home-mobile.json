@@ -1,0 +1,24 @@
+{
+  "measurement": {
+    "client": 375,
+    "scripts": [
+      "https://www.building4you.pl/wp-includes/js/wp-emoji-release.min.js?ver=7.1.3",
+      "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-home/typed.js?ver=1778448247",
+      "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-home/home.js?ver=1792668799",
+      "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-home-original/sections.js?ver=1792669860",
+      "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-repair/project-carousel.js?ver=1792672253"
+    ],
+    "scrollWidth": 375,
+    "url": "https://www.building4you.pl/",
+    "video": [
+      {
+        "autoplay": true,
+        "controls": false,
+        "paused": false,
+        "src": "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-home/movie_720.mp4"
+      }
+    ],
+    "viewport": 390
+  },
+  "logs": []
+}

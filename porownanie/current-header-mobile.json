@@ -1,0 +1,50 @@
+{
+  "headerButtons": [],
+  "headerHeight": 155.1875,
+  "navLinks": [
+    {
+      "height": 36.59375,
+      "text": "O nas",
+      "width": 64.828125,
+      "x": 18,
+      "y": 62
+    },
+    {
+      "height": 36.59375,
+      "text": "Realizacje",
+      "width": 89.84375,
+      "x": 82.828125,
+      "y": 62
+    },
+    {
+      "height": 36.59375,
+      "text": "Aktualności",
+      "width": 102.078125,
+      "x": 172.671875,
+      "y": 62
+    },
+    {
+      "height": 36.59375,
+      "text": "Oferta",
+      "width": 61.953125,
+      "x": 274.75,
+      "y": 62
+    },
+    {
+      "height": 36.59375,
+      "text": "Blog",
+      "width": 47.671875,
+      "x": 18,
+      "y": 98.59375
+    },
+    {
+      "height": 36.59375,
+      "text": "Kontakt",
+      "width": 71.53125,
+      "x": 65.671875,
+      "y": 98.59375
+    }
+  ],
+  "url": "https://www.building4you.pl/",
+  "viewport": 390
+}

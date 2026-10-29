@@ -1,0 +1,20 @@
+/* Lightweight replacements for original Joomla AOS / Owl section behaviors.
+   Only home sections are touched; video + Typed.js continue unchanged. */
+(function(){'use strict';function init(){
+ const root=document.querySelector('main.b4y-home-original');if(!root)return;
+ if('IntersectionObserver' in window && !matchMedia('(prefers-reduced-motion: reduce)').matches){
+   const observer=new IntersectionObserver(es=>{es.forEach(e=>{if(e.isIntersecting){e.target.classList.add('b4y-visible-motion');observer.unobserve(e.target)}})},{threshold:.08});
+   root.querySelectorAll('[data-aos]').forEach(e=>{e.classList.add('b4y-initial-motion');observer.observe(e)});
+ }
+ root.querySelectorAll('.owl-carousel').forEach(car=>{
+   const slides=Array.from(car.children).filter(x=>x.nodeType===1);
+   if(slides.length<2)return;
+   car.setAttribute('tabindex','0');car.setAttribute('role','region');car.setAttribute('aria-label','Karuzela Building4you');
+   car.addEventListener('keydown',e=>{if(e.key==='ArrowRight'){car.scrollBy({left:300,behavior:'smooth'})}if(e.key==='ArrowLeft'){car.scrollBy({left:-300,behavior:'smooth'})}});
+ });
+ root.querySelectorAll('[data-to]').forEach(el=>{
+   const value=Number(el.getAttribute('data-to'));if(!Number.isFinite(value)||value<0)return;
+   el.textContent=new Intl.NumberFormat('pl-PL').format(value);
+ });
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();}());

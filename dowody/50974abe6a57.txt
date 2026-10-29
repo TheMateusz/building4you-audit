@@ -1,0 +1,23 @@
+/* B4Y-ORIGINAL-OFFER-ICONS-V1: lekkie animacje, bez zaleznosci od AOS. */
+(function () {
+  function start() {
+    var cards = Array.prototype.slice.call(document.querySelectorAll('.b4y-oferta-card[data-b4y-reveal]'));
+    if (!cards.length) return;
+    if (!('IntersectionObserver' in window) || (window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches)) return;
+    var observer = new IntersectionObserver(function (entries, ob) {
+      entries.forEach(function (entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('b4y-show');
+          ob.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.08 });
+    cards.forEach(function (card, i) {
+      card.style.transitionDelay = ((i % 3) * 80) + 'ms';
+      card.classList.add('b4y-prepare-animate');
+      observer.observe(card);
+    });
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start);
+  else start();
+}());

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Date: Tue, 27 Oct 2026 10:40:15 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 54202
+Connection: keep-alive
+Link: <https://www.building4you.pl/wp-json/>; rel="https://api.w.org/"
+X-Mod-Pagespeed: enabled
+Vary: Accept-Encoding
+Cache-Control: max-age=0, no-cache
+Age: 0
+X-CDN-nazwa.pl-location: WAW
+X-CDN-nazwa.pl-age: 0
+X-CDN-nazwa.pl-cache: HIT
+X-CDN-nazwa.pl-policyused: app=no-cache
+Server: Apache/2
+

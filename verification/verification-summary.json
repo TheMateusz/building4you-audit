@@ -1,0 +1,256 @@
+{
+  "date": "2026-10-27",
+  "scope": {
+    "html_pages": 72,
+    "assets_head": 351,
+    "all_page_recheck_statuses": 200,
+    "all_asset_recheck_statuses": 200
+  },
+  "new_pagespeed": {
+    "home": "https://pagespeed.web.dev/analysis/https-www-building4you-pl/hdu8rg4pxd?form_factor=mobile",
+    "contact": "https://pagespeed.web.dev/analysis/https-www-building4you-pl-kontakt/ub4l0psvu6?form_factor=mobile",
+    "contact_performance": 98,
+    "contact_lcp_s": 1.6,
+    "contact_tbt_ms": 90
+  },
+  "local_runs": [
+    {
+      "file": "lighthouse-home.report.json",
+      "url": "https://www.building4you.pl/",
+      "fetchTime": "2026-10-27T10:42:19.384Z",
+      "lighthouse": "13.5.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "performance": 0.73,
+      "lcpMs": 8262.975,
+      "lcpError": null,
+      "fcpMs": 1170.975,
+      "tbtMs": 150,
+      "cls": 0.044005538179077104,
+      "speedIndexMs": 2588.7173282116737,
+      "observedLcpMs": 1344,
+      "blockedUrlPatterns": null,
+      "runtimeError": null
+    },
+    {
+      "file": "lighthouse-home-repeat.json",
+      "url": "https://www.building4you.pl/",
+      "fetchTime": "2026-10-27T10:44:44.203Z",
+      "lighthouse": "13.5.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/156.0.0.0 Safari/537.36",
+      "performance": 0.75,
+      "lcpMs": 8316.069,
+      "lcpError": null,
+      "fcpMs": 1218.069,
+      "tbtMs": 0,
+      "cls": 0.044005538179077104,
+      "speedIndexMs": 2540.744240544607,
+      "observedLcpMs": 1469,
+      "blockedUrlPatterns": null,
+      "runtimeError": null
+    },
+    {
+      "file": "lighthouse-home-chrome153.json",
+      "url": "https://www.building4you.pl/",
+      "fetchTime": "2026-10-27T10:45:40.197Z",
+      "lighthouse": "13.5.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.36 Safari/537.36",
+      "performance": null,
+      "lcpMs": null,
+      "lcpError": "NO_LCP",
+      "fcpMs": 1155.9789999999998,
+      "tbtMs": null,
+      "cls": 0.044005538179077104,
+      "speedIndexMs": 5352.929721899154,
+      "observedLcpMs": null,
+      "blockedUrlPatterns": null,
+      "runtimeError": null
+    },
+    {
+      "file": "lighthouse-153-no-typed.json",
+      "url": "https://www.building4you.pl/",
+      "fetchTime": "2026-10-27T10:46:28.104Z",
+      "lighthouse": "13.5.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.36 Safari/537.36",
+      "performance": null,
+      "lcpMs": null,
+      "lcpError": "NO_LCP",
+      "fcpMs": 1211.8065000000001,
+      "tbtMs": null,
+      "cls": 0,
+      "speedIndexMs": 3299.459623893259,
+      "observedLcpMs": null,
+      "blockedUrlPatterns": [
+        "*typed.js*"
+      ],
+      "runtimeError": null
+    },
+    {
+      "file": "lighthouse-153-no-video.json",
+      "url": "https://www.building4you.pl/",
+      "fetchTime": "2026-10-27T10:46:28.100Z",
+      "lighthouse": "13.5.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.36 Safari/537.36",
+      "performance": null,
+      "lcpMs": null,
+      "lcpError": "NO_LCP",
+      "fcpMs": 1139.625,
+      "tbtMs": null,
+      "cls": 0.040915330797962876,
+      "speedIndexMs": 2462.857388848872,
+      "observedLcpMs": null,
+      "blockedUrlPatterns": [
+        "*movie*"
+      ],
+      "runtimeError": null
+    },
+    {
+      "file": "lighthouse-153-static-hero.json",
+      "url": "https://www.building4you.pl/",
+      "fetchTime": "2026-10-27T10:47:54.946Z",
+      "lighthouse": "13.5.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.36 Safari/537.36",
+      "performance": null,
+      "lcpMs": null,
+      "lcpError": "NO_LCP",
+      "fcpMs": 1141.317,
+      "tbtMs": null,
+      "cls": 0,
+      "speedIndexMs": 1141.317,
+      "observedLcpMs": null,
+      "blockedUrlPatterns": [
+        "*typed.js*",
+        "*movie*"
+      ],
+      "runtimeError": null
+    },
+    {
+      "file": "lighthouse-153-contact.json",
+      "url": "https://www.building4you.pl/kontakt/",
+      "fetchTime": "2026-10-27T10:47:54.943Z",
+      "lighthouse": "13.5.0",
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.36 Safari/537.36",
+      "performance": 1,
+      "lcpMs": 1345.579,
+      "lcpError": null,
+      "fcpMs": 903.579,
+      "tbtMs": 46,
+      "cls": 0,
+      "speedIndexMs": 1050.3687522100986,
+      "observedLcpMs": 381,
+      "blockedUrlPatterns": null,
+      "runtimeError": null
+    }
+  ],
+  "review": [
+    {
+      "id": "SEC-01",
+      "classification": "Potwierdzony problem konfiguracji",
+      "result": "HTTP ponownie 200 bez przejścia na HTTPS."
+    },
+    {
+      "id": "MKT-01",
+      "classification": "Do weryfikacji na kontach",
+      "result": "Brak tagów w publicznym kodzie potwierdzony; brak skutecznego pomiaru nie został dowiedziony."
+    },
+    {
+      "id": "REG-01",
+      "classification": "Różnica historyczna",
+      "result": "6 zamiast 8 pozycji i brak dzieci Oferta potwierdzone. Zmiana względem maja, nie potwierdzona regresja z ostatniego tygodnia."
+    },
+    {
+      "id": "UX-01",
+      "classification": "Potwierdzony błąd układu",
+      "result": "320 px: client 305, scrollWidth 329; powtórzono w przeglądarce."
+    },
+    {
+      "id": "CODE-01",
+      "classification": "Potwierdzony błąd treści",
+      "result": "Duplikaty długich akapitów ponownie wykryte na trzech wskazanych stronach."
+    },
+    {
+      "id": "SEC-02",
+      "classification": "Potwierdzone braki ochrony dodatkowej",
+      "result": "Nagłówki nadal nieobecne; nie potwierdzono możliwego do wykorzystania ataku."
+    },
+    {
+      "id": "PERF-01",
+      "classification": "Potwierdzony rozmiar i zachowanie",
+      "result": "Film ma 8555220 B i autoplay; koszt oraz wpływ na biznes nie zostały zmierzone."
+    },
+    {
+      "id": "PERF-02",
+      "classification": "Potwierdzony potencjał optymalizacji",
+      "result": "Rozmiary oryginałów potwierdzone; nie każda wizyta pobiera te same oryginały."
+    },
+    {
+      "id": "SEO-01",
+      "classification": "Potwierdzony brak metadanych",
+      "result": "72/72 ponownie bez meta description. Nie dowodzi to spadku pozycji."
+    },
+    {
+      "id": "SEO-02",
+      "classification": "Potwierdzona niespójność deklaracji",
+      "result": "10/72 ponownie bez canonical. Nie potwierdzono błędnego wyboru URL przez Google."
+    },
+    {
+      "id": "UX-02",
+      "classification": "Rekomendacja biznesowa",
+      "result": "Brak formularza i CTA w treści badanej usługi potwierdzony; nie jest to awaria formularza."
+    },
+    {
+      "id": "A11Y-01",
+      "classification": "Częściowo wymagał doprecyzowania",
+      "result": "Brak sterowania pauzą i nieobsłużona animacja tekstu pozostają; CSS już ukrywa wideo przy prefers-reduced-motion."
+    },
+    {
+      "id": "PRIV-01",
+      "classification": "Rekomendacja przeglądu",
+      "result": "Zakres tekstu potwierdzony; nie przeprowadzono oceny zgodności prawnej i nie stwierdzono naruszenia."
+    },
+    {
+      "id": "REG-02",
+      "classification": "Różnica / rekomendacja",
+      "result": "Mobilny układ linków działa, lecz różni się od archiwalnego panelu. Brak hamburgera nie jest samodzielnym dowodem awarii."
+    },
+    {
+      "id": "REG-03",
+      "classification": "Różnica / rekomendacja",
+      "result": "Bieżąca typografia potwierdzona; stary wzorzec CSS niekompletny."
+    },
+    {
+      "id": "PSI-01",
+      "classification": "Zaktualizowana diagnoza",
+      "result": "PSI głównej NO_LCP, kontakt PSI 98; lokalny Lighthouse Chrome156: 73/75, Chrome153: NO_LCP. Przyczyna na poziomie konkretnej linii kodu nieustalona."
+    },
+    {
+      "id": "PSI-02",
+      "classification": "Rekomendacja oparta na diagnostyce",
+      "result": "Transfer i sygnały PSI potwierdzone; konkretny kontrast podmenu potwierdzony jako nowy UX-04."
+    },
+    {
+      "id": "UX-03",
+      "classification": "Potwierdzona nieaktywna funkcja",
+      "result": "Newsletter nadal jawnie disabled. Nie dowodzi utraty wysłanych zapisów."
+    },
+    {
+      "id": "CODE-02",
+      "classification": "Obserwacja utrzymaniowa",
+      "result": "Nadpisania CSS potwierdzone; konflikt kolorów menu pokazuje konkretny skutek."
+    },
+    {
+      "id": "SEO-03",
+      "classification": "Rekomendacja porządkowa",
+      "result": "Linki przekierowują prawidłowo; nie klasyfikować ich jako niedziałające."
+    },
+    {
+      "id": "SEO-04",
+      "classification": "Potwierdzony brak JSON-LD / rekomendacja",
+      "result": "0/72 JSON-LD; nie blokuje indeksowania."
+    },
+    {
+      "id": "UX-04",
+      "classification": "Nowy potwierdzony błąd",
+      "result": "Podmenu O nas: #fff na #fff przed scroll; #222 na #fff po scroll. Błąd konkretnej reguły CSS."
+    }
+  ]
+}

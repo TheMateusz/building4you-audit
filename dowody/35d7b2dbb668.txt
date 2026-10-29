@@ -1,0 +1,10 @@
+(function(){'use strict';
+  function syncHeader(){document.body.classList.toggle('b4y-contact-scrolled',window.scrollY > 90);}
+  window.addEventListener('scroll',syncHeader,{passive:true}); syncHeader();
+  // Keep at most one department expanded, like the original accordion.
+  document.querySelectorAll('.b4y-contact-accordion details').forEach(function(d){
+    d.addEventListener('toggle',function(){if(!d.open)return;
+      document.querySelectorAll('.b4y-contact-accordion details').forEach(function(other){if(other!==d)other.open=false;});
+    });
+  });
+})();

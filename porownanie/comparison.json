@@ -1,0 +1,31 @@
+{
+  "archive_timestamp": "20260513010843",
+  "archive_url": "https://web.archive.org/web/20260513010843/https://www.building4you.pl/",
+  "old_menu": [
+    "O nas",
+    "Realizacje",
+    "Aktualności",
+    "Oferta",
+    "Szybka Wycena",
+    "Kontakt",
+    "Blog",
+    "REKRUTACJA"
+  ],
+  "new_menu": [
+    "O nas",
+    "Realizacje",
+    "Aktualności",
+    "Oferta",
+    "Blog",
+    "Kontakt"
+  ],
+  "old_offer_children": 9,
+  "new_offer_children": 0,
+  "old_mobile_toggle": true,
+  "new_mobile_toggle": false,
+  "old_description": true,
+  "new_description": false,
+  "old_analytics_script": [
+    "https://www.googletagmanager.com/gtag/js?id=UA-152616077-1"
+  ]
+}

@@ -1,0 +1,3751 @@
+[
+  {
+    "requested": "https://www.building4you.pl/",
+    "url": "https://www.building4you.pl/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:25 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "12462",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "df9d12e55f72.html",
+    "sha256": "23c4627c5a522c11b09d4cd96d2dca63ef3c6b6651dbd7ba010e910362c6a86b",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "Skontaktuj się",
+        "href": "https://www.building4you.pl/szybka-wycena.html?view=article&id=86"
+      }
+    ]
+  },
+  {
+    "requested": "https://www.building4you.pl/o-nas/",
+    "url": "https://www.building4you.pl/o-nas/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:25 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7690",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/pages/1020>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=1020>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "82863bc7ff1f.html",
+    "sha256": "033c72d57a34765555166fe28ff83932319d8d3d577c926d443f36e4fed58654",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/o-nas/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "Skontaktuj się →",
+        "href": "https://www.building4you.pl/kontakt/"
+      }
+    ]
+  },
+  {
+    "requested": "https://www.building4you.pl/o-nas/referencje/",
+    "url": "https://www.building4you.pl/o-nas/referencje/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:25 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7907",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/pages/1021>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=1021>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "5f86ede8b5a9.html",
+    "sha256": "b3b8268c193bf78de629898f5bfe98ffa72304c0251c25b87cfb2db39ae8eca8",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/o-nas/referencje/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "Skontaktuj się →",
+        "href": "https://www.building4you.pl/kontakt/"
+      }
+    ]
+  },
+  {
+    "requested": "https://www.building4you.pl/realizacje/",
+    "url": "https://www.building4you.pl/realizacje/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8473",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "1",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "1",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "7d8fc570a485.html",
+    "sha256": "4001395365e26535b29ee4cd09f41e18e123ede99ddcd976a7fc811cef4ac4ad",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/aktualnosci/",
+    "url": "https://www.building4you.pl/aktualnosci/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8921",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/3>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "1",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "1",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "e5f82be186d7.html",
+    "sha256": "0b9649f5b5d47dc8286354f3b547fa0205e4e069235d22ce39e0d667e032e180",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/oferta/",
+    "url": "https://www.building4you.pl/oferta/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7523",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/4>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "1",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "1",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "39fe7c0608f1.html",
+    "sha256": "7eb268ef7bd47512569662637c3ac636f3c155e4b0e217027834dc69a15e2bf8",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "Skontaktuj się",
+        "href": "https://www.building4you.pl/kontakt/"
+      }
+    ]
+  },
+  {
+    "requested": "https://www.building4you.pl/blog/",
+    "url": "https://www.building4you.pl/blog/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8967",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "01753f0c4c35.html",
+    "sha256": "797dd4e049aa903ddc6c0ea352e6b9c6a0958421b2e745cbfbd8125c1e01567d",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/kontakt/",
+    "url": "https://www.building4you.pl/kontakt/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7353",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/pages/1057>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=1057>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "b64388fcf876.html",
+    "sha256": "7b70b42d3c7e0c4c2ce85d67605607a9178e9c91fe6bdae4e938cc9c8730b096",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/kontakt/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "517 102 691",
+        "href": "tel:+48517102691"
+      },
+      {
+        "text": "biuro@building4you.pl",
+        "href": "mailto:biuro@building4you.pl"
+      },
+      {
+        "text": "+48 22 300 27 97",
+        "href": "tel:+48223002797"
+      },
+      {
+        "text": "+48 22 300 27 97",
+        "href": "tel:+48223002797"
+      },
+      {
+        "text": "660 443 303",
+        "href": "tel:+48660443303"
+      },
+      {
+        "text": "660 443 303",
+        "href": "tel:+48660443303"
+      },
+      {
+        "text": "664 022 303",
+        "href": "tel:+48664022303"
+      },
+      {
+        "text": "+48 22 300 27 97",
+        "href": "tel:+48223002797"
+      },
+      {
+        "text": "+48 22 300 27 97",
+        "href": "tel:+48223002797"
+      },
+      {
+        "text": "+48 22 300 27 97",
+        "href": "tel:+48223002797"
+      },
+      {
+        "text": "+48 22 300 27 97",
+        "href": "tel:+48223002797"
+      }
+    ]
+  },
+  {
+    "requested": "https://www.building4you.pl/hale-przemyslowe/",
+    "url": "https://www.building4you.pl/hale-przemyslowe/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8954",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/17>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=17>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "39637a95b55b.html",
+    "sha256": "3d8c20f40c26f3e354747ef700a89b1efd76cc70f93cc05666c7762825d8124b",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/hale-przemyslowe/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [
+      [
+        "Budowa hali przemysłowej to jeden z ważniejszych etapów biznesu z punktu widzenia Inwestora. To właśnie w tym momencie projekt staje się widoczną przestrzenią dla każdego przedsiębiorstwa. Proces budowy musi zostać przeprowadzony w sposób kompleksowy i profesjonalny. Jesteśmy generalnym wykonawcą. Budujemy hale o różnych wymiarach, a także wykonujemy je z odpowiednio wyselekcjonowanych materiałów.",
+        2
+      ],
+      [
+        "Hale przemysłowe to szeroka dziedzina, w zakresie której możemy mówić o bardzo zróżnicowanych obiektach – zarówno pod względem parametrów, jak i wykorzystania.",
+        2
+      ]
+    ],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/budynki-biurowe-i-uslugowe/",
+    "url": "https://www.building4you.pl/budynki-biurowe-i-uslugowe/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8982",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/24>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=24>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "6ddeb95169a7.html",
+    "sha256": "7cfc60682a585498be13771ea21dab903817862801a33cab4ee2c9f446d9c4d2",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/budynki-biurowe-i-uslugowe/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/chlodnie-i-mroznie/",
+    "url": "https://www.building4you.pl/chlodnie-i-mroznie/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8702",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/22>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=22>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "4de0ba81219c.html",
+    "sha256": "ddf09dedcffb7f39acab13b85e89870b57ce362d57b037222108d1baefb67117",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/chlodnie-i-mroznie/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/infrastruktura-techniczna/",
+    "url": "https://www.building4you.pl/infrastruktura-techniczna/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:26 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8549",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/23>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=23>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "a459ca751998.html",
+    "sha256": "49fd95c661fe8e68e9917828fc12eec58393df50cdea7937c0261e64633d398b",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/infrastruktura-techniczna/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/projektowanie-hal-przemyslowych-produkcyjnych-magazynowych/",
+    "url": "https://www.building4you.pl/projektowanie-hal-przemyslowych-produkcyjnych-magazynowych/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:27 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "10077",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/30>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=30>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "4d30a3f49ef9.html",
+    "sha256": "46af99364e95dd6f7f9d3e42210691bb959f36f600995b09f266b5593a5bcfac",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/projektowanie-hal-przemyslowych-produkcyjnych-magazynowych/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/roboty-ziemne/",
+    "url": "https://www.building4you.pl/roboty-ziemne/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:27 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8707",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/20>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=20>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "728262bac5ee.html",
+    "sha256": "5f2a4b85de0bc3e6c63fbd522e29ec7b1a292a92d58ce48d80010b887ee5d440",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/roboty-ziemne/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/konstrukcje-stalowe/",
+    "url": "https://www.building4you.pl/konstrukcje-stalowe/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:27 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "11729",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/19>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=19>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "a7f6ad1c8102.html",
+    "sha256": "78d979bdaeec65d618051161acb9c30a43ef3b563a35761ba97e1437720322f6",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/konstrukcje-stalowe/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/wyburzenia-i-prace-rozbiorkowe/",
+    "url": "https://www.building4you.pl/wyburzenia-i-prace-rozbiorkowe/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:27 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8867",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/21>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=21>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "500867455384.html",
+    "sha256": "fb936e5773a581e3560bc99e48b69576961959da16cf3c075d76a0f59fcbf1c2",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/wyburzenia-i-prace-rozbiorkowe/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/novmax/",
+    "url": "https://www.building4you.pl/novmax/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:27 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8002",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/51>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=51>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "47c76045696c.html",
+    "sha256": "5d355137535fa8a032843b458fa41c43175a985d58b7701a5c6884a3a7d01693",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/novmax/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/stalgast-etap-ii/",
+    "url": "https://www.building4you.pl/stalgast-etap-ii/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:27 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8692",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/52>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=52>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "32124af14adf.html",
+    "sha256": "32d45057b89307e602cf149fee4915e512317442543019962f526da857fc0a96",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/stalgast-etap-ii/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/warszawa-mokotow/",
+    "url": "https://www.building4you.pl/warszawa-mokotow/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:27 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8000",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/49>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=49>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "39b3446b7b01.html",
+    "sha256": "a9d5f460620453ba249c75e58db6c107a4098cee492a7498fe22f0960b899a4a",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/warszawa-mokotow/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/mjm-jaroszynscy/",
+    "url": "https://www.building4you.pl/mjm-jaroszynscy/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:28 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7959",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/42>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=42>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "1",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "1",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "4937da011f25.html",
+    "sha256": "80c6721993831239c8152129ffd03df1b57a3647bcdb756162434d620b2e390a",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/mjm-jaroszynscy/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/elpes/",
+    "url": "https://www.building4you.pl/elpes/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:28 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8710",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/50>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=50>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "32faafdd70b5.html",
+    "sha256": "b49b6fad038d4f620b3383c96a9b787c317a4b78e567b5974859db90283b6f4d",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/elpes/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/peace/",
+    "url": "https://www.building4you.pl/peace/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:28 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7832",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/45>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=45>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "0ea7f4416948.html",
+    "sha256": "82b0c53e8d447ad2b7ceee33350e37f5d8acfa6e7087920507802a687f7cf5e0",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/peace/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/stalgast-etap-i/",
+    "url": "https://www.building4you.pl/stalgast-etap-i/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:28 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8542",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/47>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=47>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "68fd2aed71ce.html",
+    "sha256": "11e65194768cc163059c3ac48d5a9ab4fc50ee2d5c262fe30feaba64d5782d9b",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/stalgast-etap-i/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/boels-lomianki/",
+    "url": "https://www.building4you.pl/boels-lomianki/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:28 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8130",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/46>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=46>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "03028b0fc2f0.html",
+    "sha256": "4453fcfeb08819a4f0997566d5e9ea1ea7f3843af7de7d0578914e349e4b0d33",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/boels-lomianki/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/pow-wolominski/",
+    "url": "https://www.building4you.pl/pow-wolominski/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:28 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7507",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/191>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=191>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "3614991403d4.html",
+    "sha256": "ebca402444cfac00425cfe1c580fec18ff70355fc90699e5caaa11257a741a96",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/pow-wolominski/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/us-coat-sp-z-o-o/",
+    "url": "https://www.building4you.pl/us-coat-sp-z-o-o/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:28 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8465",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/183>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=183>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "d8f5c8300e76.html",
+    "sha256": "9606edd0c0b0d283812b649b82a0f7998a6cf4db6e2ea17ff66929dbb49b8111",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/us-coat-sp-z-o-o/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/choszczowka/",
+    "url": "https://www.building4you.pl/choszczowka/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:28 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7952",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/181>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=181>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "2086d012d17b.html",
+    "sha256": "4cb6e6670f97bac4c832f47570b212efe61e947bc4db66957b71488395aab795",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/choszczowka/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/fortuna-sp-z-o-o/",
+    "url": "https://www.building4you.pl/fortuna-sp-z-o-o/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:29 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8797",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/179>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=179>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "617526e6639f.html",
+    "sha256": "f6a43ea576f766f735d8e9b86a9f4ef58020fb0fa0d2fffffb6e0d676f033cc5",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/fortuna-sp-z-o-o/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/polmlek-laktoferyna/",
+    "url": "https://www.building4you.pl/polmlek-laktoferyna/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:29 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8417",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/177>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=177>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "34f6b08f63a0.html",
+    "sha256": "4ad94b1a138aba2091ad62e983686c5c9d645dcf0ca3314e39502b38b3ad93d4",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/polmlek-laktoferyna/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/fano/",
+    "url": "https://www.building4you.pl/fano/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:29 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8313",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/176>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=176>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "6604af5cfa5d.html",
+    "sha256": "48454a3cf7a46c5cbecf9a0797c3506fb6c8e71a8cd0a376113165f1015fea1d",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/fano/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/animex-foods-sp-z-o-o/",
+    "url": "https://www.building4you.pl/animex-foods-sp-z-o-o/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:29 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9515",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/174>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=174>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "2cdec48b87e2.html",
+    "sha256": "7c4f84afc597971225dd85cd9570adcddbeb6010a74bc8edbe0bb482e3fe57d5",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/animex-foods-sp-z-o-o/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/intrograf-lublin-s-a/",
+    "url": "https://www.building4you.pl/intrograf-lublin-s-a/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:29 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9676",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/147>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=147>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "9874eddf01d3.html",
+    "sha256": "254c67d1046de0a622a02428ac89b94c2040380891332f8928dadde187bc434b",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/intrograf-lublin-s-a/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/ulma-construccion-polska-s-a/",
+    "url": "https://www.building4you.pl/ulma-construccion-polska-s-a/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:29 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8844",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/154>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=154>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "df4024fe8492.html",
+    "sha256": "5ea8be53ca1107d855d23e9c9099710dc911192a8531e77b6f4d58e90d579cd0",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/ulma-construccion-polska-s-a/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/serafin-p-u-h-andrzej-serafin/",
+    "url": "https://www.building4you.pl/serafin-p-u-h-andrzej-serafin/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:29 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9216",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/146>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=146>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "18424139222f.html",
+    "sha256": "5bc5b113343630b74d695c4eff809962bc39bd61dbde874c05dd397a9169c52a",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/serafin-p-u-h-andrzej-serafin/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/szczesniak-slawomir-zaklad-handlowo-uslugowy-2/",
+    "url": "https://www.building4you.pl/szczesniak-slawomir-zaklad-handlowo-uslugowy-2/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:30 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7912",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/173>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=173>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "1",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "1",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "345f633a9249.html",
+    "sha256": "bcbffb784951cb5ac9fd59b4e26930ace21e4e82c005a03e3e6e4e5c5eac4aeb",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/szczesniak-slawomir-zaklad-handlowo-uslugowy-2/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/polmlek-sp-z-o-o/",
+    "url": "https://www.building4you.pl/polmlek-sp-z-o-o/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:30 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8752",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/142>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=142>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "53c1a22e0887.html",
+    "sha256": "f5daa9181561c421d0052ae33e66688a5d79b15ea5371ee938e2074777ac67cf",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/polmlek-sp-z-o-o/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/cintamani/",
+    "url": "https://www.building4you.pl/cintamani/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:30 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8211",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/140>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=140>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "e9ab71d528e9.html",
+    "sha256": "20f61abba8c6fe62579aa0a807cae4f1f256e4150d401b76f8141cc8e8afc09b",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/cintamani/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/heinz-glas-2/",
+    "url": "https://www.building4you.pl/heinz-glas-2/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:30 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8881",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/130>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=130>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "060034ae2f5c.html",
+    "sha256": "a8c1fbc8a24d5dce35e566d6a399beeed2455a4a8b38c3fcb6f00d61b9d6dd6f",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/heinz-glas-2/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/metalchem-warszawa-s-a/",
+    "url": "https://www.building4you.pl/metalchem-warszawa-s-a/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:30 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "10456",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/119>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=119>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "dd9c2e941f89.html",
+    "sha256": "b0addb121ed536d300141e406ce044a8f207bb050e3f13cda0d5c38ce1fd7500",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/metalchem-warszawa-s-a/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/flesz/",
+    "url": "https://www.building4you.pl/flesz/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:30 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9838",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/54>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=54>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "a8bd7e2d2707.html",
+    "sha256": "76f0a44541a9debcd3ee303925a333b3962f7f0844640a1bb2eb9a0f46ac8477",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/flesz/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/generalne-wykonawstwo-budowlane-co-oznacza/",
+    "url": "https://www.building4you.pl/generalne-wykonawstwo-budowlane-co-oznacza/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:30 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9267",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/145>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=145>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "f52645875a24.html",
+    "sha256": "2003462be797fe90f9b7bbd49e654ac5b41f480c13bce5f97e6c0428784d1d9c",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/generalne-wykonawstwo-budowlane-co-oznacza/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/hale-produkcyjne/",
+    "url": "https://www.building4you.pl/hale-produkcyjne/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:30 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9558",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/108>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=108>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "95297c4d674c.html",
+    "sha256": "9214bad0b95afc463061c079c1a1fba4f218cc8405f81dadafc9d489dc56183e",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/hale-produkcyjne/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/hale-stalowe/",
+    "url": "https://www.building4you.pl/hale-stalowe/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:31 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "10479",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/109>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=109>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "1",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "1",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "d809b7e4c02b.html",
+    "sha256": "79e909db1445d040c666473340b0a5c5d16aa1f302f228ecef3430beb54000f3",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/hale-stalowe/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/projekty-i-budowa-hal-magazynowych/",
+    "url": "https://www.building4you.pl/projekty-i-budowa-hal-magazynowych/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:31 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "10212",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/110>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=110>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "a6f987585edb.html",
+    "sha256": "b00695a1fa354a81acc296fc9ae9dd5685ed2dae5604203fdacf1984274aa18b",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/projekty-i-budowa-hal-magazynowych/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [
+      [
+        "Niezwykle istotna jest dla nas kwestia bezpieczeństwa ofertowanych przez nas rozwiązań konstrukcyjnych i technologicznych. Mamy do dyspozycji kilka rozwiązań, każde z nich jest starannie przeanalizowane i dobrane pod kątem budowanego obiektu. Jednak bardzo dużo zależy od samej funkcji i przeznaczenia obiektu.",
+        2
+      ]
+    ],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/projekty-budynkow-biurowych-i-uslugowych/",
+    "url": "https://www.building4you.pl/projekty-budynkow-biurowych-i-uslugowych/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:31 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9594",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/112>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=112>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "b726d82f2bcf.html",
+    "sha256": "eb0fa4d9a1eb84ae32b227a4ccf23cbb9787f411db61a10dc3dc1304a686f796",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/projekty-budynkow-biurowych-i-uslugowych/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/budowa-hali-pod-klucz/",
+    "url": "https://www.building4you.pl/budowa-hali-pod-klucz/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:31 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9414",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/111>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=111>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "6841f49dea92.html",
+    "sha256": "bda1965ead4929169e1e93b37331443c8bcbb3114be161597c66b2be9d5f3331",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/budowa-hali-pod-klucz/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [
+      [
+        "building4you jako generalny wykonawca inwestycji przemysłowych buduje „ hale pod klucz ”. Jednak w przypadku określenia „ hale pod klucz ” wykończenie nabiera różnego wymiaru. Nie bez znaczenia jest przeznaczenie budowanego obiektu. Określenie hali stalowej wykończonej „ pod klucz ” co innego oznacza w przypadku hali magazynowej , a co innego w przypadku hali produkcyjnej a jeszcze inaczej wygląda to w hali rolniczej . W tym miejscu należy najpierw skupić się  na przeznaczeniu hali, a następnie na jej wyposażeniu odpowiednio dobremu do przeznaczenia hali przemysłowej. Dopiero wtedy  możemy osiągnąć stan hali przemysłowej „pod klucz”.",
+        2
+      ]
+    ],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/polityka-prywatnosci/",
+    "url": "https://www.building4you.pl/polityka-prywatnosci/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:31 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7817",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/pages/3>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=3>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "b29cc22d00f3.html",
+    "sha256": "bf9b360288e8fdc4ebbf3976bc5a374a76d713c5a20682923fcb4bce924b0290",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/polityka-prywatnosci/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "iod@building4you.pl",
+        "href": "mailto:iod@building4you.pl"
+      }
+    ]
+  },
+  {
+    "requested": "https://www.building4you.pl/realizacje/page/2/",
+    "url": "https://www.building4you.pl/realizacje/page/2/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:31 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8583",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "2457140d1fc3.html",
+    "sha256": "5e8bfbd87db743b69c82badf198a3f3918b75c9d1fcde13925e544262df90477",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/realizacje/page/3/",
+    "url": "https://www.building4you.pl/realizacje/page/3/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:31 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "7863",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/5>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "35ad4571f9fc.html",
+    "sha256": "ac83df309f3c82413fb523cee72f02255d12c99d2802f0af644080b164ff1f37",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/inwestycja-w-powiecie-plonskim/",
+    "url": "https://www.building4you.pl/inwestycja-w-powiecie-plonskim/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8665",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/184>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=184>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "1",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "1",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "686bc2e163ac.html",
+    "sha256": "3d5a39376d43548457b764db01553045026a0a7180b747f9e83078784308966a",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/inwestycja-w-powiecie-plonskim/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/choszczowka-2/",
+    "url": "https://www.building4you.pl/choszczowka-2/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8119",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/182>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=182>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "6b711ac12da0.html",
+    "sha256": "c0536b56d8dad14572d32a08673c7fe92603f5963835644323d876f35c8146e4",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/choszczowka-2/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-laktoferyna/",
+    "url": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-laktoferyna/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8575",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/185>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=185>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "78c325f83c92.html",
+    "sha256": "78df6e29de2c2b195e18f5c2af81caf982786c9f12316950fb8554463a1d393f",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/pozwolenie-na-uzytkowanie-laktoferyna/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/nowa-inwestycja-w-woj-mazowieckim-laktoferyna/",
+    "url": "https://www.building4you.pl/nowa-inwestycja-w-woj-mazowieckim-laktoferyna/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8704",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/178>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=178>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "0163345cdfb5.html",
+    "sha256": "a02e555c544591deed3434948c6450e5d5b284e64866df56a2051bcf2c84a5b8",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/nowa-inwestycja-w-woj-mazowieckim-laktoferyna/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/nowa-inwestycja-w-woj-mazowieckim/",
+    "url": "https://www.building4you.pl/nowa-inwestycja-w-woj-mazowieckim/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8454",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/175>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=175>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "cda3cd206d15.html",
+    "sha256": "5aa505150fbfcde36d383fd0b15e3705f5560eef74702a5fdc6ef1ae574a616a",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/nowa-inwestycja-w-woj-mazowieckim/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/nowa-inwestycja-w-woj-lodzkim/",
+    "url": "https://www.building4you.pl/nowa-inwestycja-w-woj-lodzkim/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9563",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/172>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=172>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "81d5409d40ff.html",
+    "sha256": "c374dac3f709f2195200c7c5191f9df8d9a6c0c664d30f0e4122cb9d5cd77e67",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/nowa-inwestycja-w-woj-lodzkim/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-dla-ulma-construccion-polska-s-a/",
+    "url": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-dla-ulma-construccion-polska-s-a/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8815",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/171>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=171>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "96be9ea62430.html",
+    "sha256": "6cd12bcb2c205b1c339fc834a988249928190dd7224ee8228a0e93e15e752bd0",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/pozwolenie-na-uzytkowanie-dla-ulma-construccion-polska-s-a/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/kolejna-inwestycja-w-lublinie/",
+    "url": "https://www.building4you.pl/kolejna-inwestycja-w-lublinie/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9610",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/153>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=153>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "e529af7a4ab4.html",
+    "sha256": "9a095661832ef5902742548ac928105a2f08646c3fe74180c9eb21c0b3e569cf",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/kolejna-inwestycja-w-lublinie/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/budowa-wiaty-w-koszajcu/",
+    "url": "https://www.building4you.pl/budowa-wiaty-w-koszajcu/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:32 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8748",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/155>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=155>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "3890f6a4be3e.html",
+    "sha256": "ef63a23aa588c93e05557d53f5dc922a775cb83c7f6fb333dc7edc0a5a4288a3",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/budowa-wiaty-w-koszajcu/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-dla-cintamani-poland-majewscy-i-koc-sp-j/",
+    "url": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-dla-cintamani-poland-majewscy-i-koc-sp-j/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8152",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/152>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=152>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "f7b60bc28b7d.html",
+    "sha256": "734cf042775ccf04cc3f0a621264adb816df531befcc5611a806656acd6973b2",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/pozwolenie-na-uzytkowanie-dla-cintamani-poland-majewscy-i-koc-sp-j/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/aktualnosci/page/2/",
+    "url": "https://www.building4you.pl/aktualnosci/page/2/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8890",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/3>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "e2556d6f2cf9.html",
+    "sha256": "7ef8950c98b87b2a4836d68c4885a9cef9bfc35ffadec3a09d71c136bf0e83dc",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/aktualnosci/page/3/",
+    "url": "https://www.building4you.pl/aktualnosci/page/3/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9144",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/3>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "27708ab0b292.html",
+    "sha256": "e68c8a86f4b1f225511ba13c45b4f3e89e08ab8632ee767fb7e672ebf033185f",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/konstrukcje-zelbetowe/",
+    "url": "https://www.building4you.pl/konstrukcje-zelbetowe/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8956",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/18>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=18>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "5b4f24ebbc9d.html",
+    "sha256": "0f0237788359f8abaea1a2592fb7caa10f0b5d4aa7b41da349db8595797bf54d",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/konstrukcje-zelbetowe/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/budowa-hali-przemyslowej-od-koncepcji-do-realizacji/",
+    "url": "https://www.building4you.pl/budowa-hali-przemyslowej-od-koncepcji-do-realizacji/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8254",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/123>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=123>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "e5f1625527dc.html",
+    "sha256": "ed5a4e8a7e9b1daeb3fac084371498b5fd0c4c8f7dcdabd24a705557a8ca36bb",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/budowa-hali-przemyslowej-od-koncepcji-do-realizacji/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/jak-wybrac-odpowiedniego-wykonawce-generalnego-dla-twojego-projektu-budowlanego/",
+    "url": "https://www.building4you.pl/jak-wybrac-odpowiedniego-wykonawce-generalnego-dla-twojego-projektu-budowlanego/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8611",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/170>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=170>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "e340a7390b87.html",
+    "sha256": "7a441cd767cdae274817cd3a606df0f6393a736a74665fec5ff991b46f9f78ef",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/jak-wybrac-odpowiedniego-wykonawce-generalnego-dla-twojego-projektu-budowlanego/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/kluczowe-role-i-odpowiedzialnosci-wykonawcy-generalnego-w-budownictwie/",
+    "url": "https://www.building4you.pl/kluczowe-role-i-odpowiedzialnosci-wykonawcy-generalnego-w-budownictwie/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8601",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/156>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=156>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "de7f6a33fe4f.html",
+    "sha256": "40474c54de507818cfdf7bfa20c4b78bfe16a664e6f312f2977ba6584f27e6c6",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/kluczowe-role-i-odpowiedzialnosci-wykonawcy-generalnego-w-budownictwie/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/generalne-wykonawstwo-od-projektu-po-ostateczne-ukonczenie/",
+    "url": "https://www.building4you.pl/generalne-wykonawstwo-od-projektu-po-ostateczne-ukonczenie/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8554",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/149>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=149>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "14e2c8623193.html",
+    "sha256": "82955c45d9192dbf8cada4cc53c588f9b9074874c27e43bb32c4501da20d23db",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/generalne-wykonawstwo-od-projektu-po-ostateczne-ukonczenie/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/zasady-bhp-podczas-prac-rozbiorkowych/",
+    "url": "https://www.building4you.pl/zasady-bhp-podczas-prac-rozbiorkowych/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:33 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8262",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/134>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=134>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "958e6286f263.html",
+    "sha256": "409193a29d64fbddf8f8732cc913229fcb082bf3f79b879d5ad95d7471c56ead",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/zasady-bhp-podczas-prac-rozbiorkowych/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/prace-rozbiorkowe-podstawowe-zasady-zakres-i-sposoby-prowadzenia/",
+    "url": "https://www.building4you.pl/prace-rozbiorkowe-podstawowe-zasady-zakres-i-sposoby-prowadzenia/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:34 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "9069",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/133>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=133>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "f263dc2a7e88.html",
+    "sha256": "960d8bd59898804a7f3b871a6f9137fb35c5a230206ea492af753e4a30d7e4e3",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/prace-rozbiorkowe-podstawowe-zasady-zakres-i-sposoby-prowadzenia/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/dzialka-budowlana-wszystko-co-musisz-widziec-przed-rozpoczeciem-prac/",
+    "url": "https://www.building4you.pl/dzialka-budowlana-wszystko-co-musisz-widziec-przed-rozpoczeciem-prac/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:34 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8244",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/131>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=131>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "1337474bb6fa.html",
+    "sha256": "9b1916a99484a69589cb23740ae60efc29d1687692ed244bd97fa9d91e8ec4b0",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/dzialka-budowlana-wszystko-co-musisz-widziec-przed-rozpoczeciem-prac/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/jak-zrobic-piwniczke-pod-schodami/",
+    "url": "https://www.building4you.pl/jak-zrobic-piwniczke-pod-schodami/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:34 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8206",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/132>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=132>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "6541aaf55edb.html",
+    "sha256": "1563235ca6390c2db7c0fdb88ef1c3f52ee5b6bfb22c556bf6f7b9b92dd0f232",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/jak-zrobic-piwniczke-pod-schodami/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/dzialka-pod-budowe-hali-co-warto-sprawdzic-przed-zakupem/",
+    "url": "https://www.building4you.pl/dzialka-pod-budowe-hali-co-warto-sprawdzic-przed-zakupem/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:34 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8063",
+      "Connection": "keep-alive",
+      "X-Pingback": "https://www.building4you.pl/xmlrpc.php",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/posts/129>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\", <https://www.building4you.pl/?p=129>; rel=shortlink",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "f5ba79a56bf1.html",
+    "sha256": "717029e3c8abc76dda6f265638e067f77db2f2af20894d0e41816e538b59020f",
+    "description": [],
+    "canonical": [
+      "https://www.building4you.pl/dzialka-pod-budowe-hali-co-warto-sprawdzic-przed-zakupem/"
+    ],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "https://www.building4you.pl/blog/page/2/",
+    "url": "https://www.building4you.pl/blog/page/2/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:34 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "8531",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\", <https://www.building4you.pl/wp-json/wp/v2/categories/10>; rel=\"alternate\"; title=\"JSON\"; type=\"application/json\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "0d78c09f38e5.html",
+    "sha256": "ec68c709ae79d2c9b34a0fe1d38263b121b607a07371461de8998060d1cb8278",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": []
+  },
+  {
+    "requested": "http://www.building4you.pl/",
+    "url": "http://www.building4you.pl/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:34 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "12272",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [],
+    "file": "5678a39a8488.html",
+    "sha256": "1a8306b0d6ee3c17f16c68b6fe6e80f9e5980f5589ae3b70d55093cba236350d",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "Skontaktuj się",
+        "href": "https://www.building4you.pl/szybka-wycena.html?view=article&id=86"
+      }
+    ]
+  },
+  {
+    "requested": "http://building4you.pl/",
+    "url": "http://www.building4you.pl/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:34 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "12272",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [
+      {
+        "url": "http://building4you.pl/",
+        "status": 301,
+        "location": "http://www.building4you.pl/"
+      }
+    ],
+    "file": "5df79fe0b4d2.html",
+    "sha256": "1a8306b0d6ee3c17f16c68b6fe6e80f9e5980f5589ae3b70d55093cba236350d",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "Skontaktuj się",
+        "href": "https://www.building4you.pl/szybka-wycena.html?view=article&id=86"
+      }
+    ]
+  },
+  {
+    "requested": "https://building4you.pl/",
+    "url": "https://www.building4you.pl/",
+    "status": 200,
+    "headers": {
+      "Date": "Tue, 27 Oct 2026 10:42:35 GMT",
+      "Content-Type": "text/html; charset=UTF-8",
+      "Content-Length": "12462",
+      "Connection": "keep-alive",
+      "Link": "<https://www.building4you.pl/wp-json/>; rel=\"https://api.w.org/\"",
+      "X-Mod-Pagespeed": "enabled",
+      "Vary": "Accept-Encoding",
+      "Content-Encoding": "br",
+      "Cache-Control": "max-age=0, no-cache",
+      "Age": "0",
+      "X-CDN-nazwa.pl-location": "WAW",
+      "X-CDN-nazwa.pl-age": "0",
+      "X-CDN-nazwa.pl-cache": "HIT",
+      "X-CDN-nazwa.pl-policyused": "app=no-cache",
+      "Server": "Apache/2"
+    },
+    "redirects": [
+      {
+        "url": "https://building4you.pl/",
+        "status": 301,
+        "location": "https://www.building4you.pl/"
+      }
+    ],
+    "file": "6c58a03ef8b7.html",
+    "sha256": "23c4627c5a522c11b09d4cd96d2dca63ef3c6b6651dbd7ba010e910362c6a86b",
+    "description": [],
+    "canonical": [],
+    "jsonld": 0,
+    "forms": 0,
+    "duplicates": [],
+    "disabled": [
+      [
+        "input",
+        "email",
+        "E-mail",
+        ""
+      ],
+      [
+        "button",
+        "button",
+        null,
+        "ZAMAWIAM"
+      ]
+    ],
+    "tracking": [],
+    "main_cta": [
+      {
+        "text": "Skontaktuj się",
+        "href": "https://www.building4you.pl/szybka-wycena.html?view=article&id=86"
+      }
+    ]
+  }
+]

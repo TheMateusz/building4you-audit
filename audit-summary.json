@@ -1,0 +1,859 @@
+[
+  {
+    "url": "https://www.building4you.pl/",
+    "final": "https://www.building4you.pl/",
+    "status": 200,
+    "title": "Hale stalowe, hale przemys³owe – Building4you",
+    "h1": [
+      "Generalny wykonawca",
+      "Generalny wykonawca budowlany Building4you"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/?page_id=1020",
+    "final": "https://www.building4you.pl/o-nas/",
+    "status": 200,
+    "title": "O firmie – Building4you",
+    "h1": [
+      "Profesjonalizm, jakoœæ, gwarancja"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/o-nas/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/?page_id=1021",
+    "final": "https://www.building4you.pl/o-nas/referencje/",
+    "status": 200,
+    "title": "Referencje – Building4you",
+    "h1": [
+      "Budujemy d³ugotrwa³e relacje"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/o-nas/referencje/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/?cat=5",
+    "final": "https://www.building4you.pl/realizacje/",
+    "status": 200,
+    "title": "Realizacje – Building4you",
+    "h1": [
+      "Realizacje"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/?cat=3",
+    "final": "https://www.building4you.pl/aktualnosci/",
+    "status": 200,
+    "title": "Aktualnoœci – Building4you",
+    "h1": [
+      "Informacje prasowe"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/?cat=4",
+    "final": "https://www.building4you.pl/oferta/",
+    "status": 200,
+    "title": "Oferta – Building4you",
+    "h1": [
+      "Zakres dzia³alnoœci"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/?cat=10",
+    "final": "https://www.building4you.pl/blog/",
+    "status": 200,
+    "title": "Blog – Building4you",
+    "h1": [
+      "Kategoria: Blog"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/kontakt/",
+    "final": "https://www.building4you.pl/kontakt/",
+    "status": 200,
+    "title": "Kontakt – Building4you",
+    "h1": [
+      "KONTAKT"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/kontakt/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/o-nas/",
+    "final": "https://www.building4you.pl/o-nas/",
+    "status": 200,
+    "title": "O firmie – Building4you",
+    "h1": [
+      "Profesjonalizm, jakoœæ, gwarancja"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/o-nas/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/hale-przemyslowe/",
+    "final": "https://www.building4you.pl/hale-przemyslowe/",
+    "status": 200,
+    "title": "Hale przemys³owe – Building4you",
+    "h1": [
+      "Hale przemys³owe"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/hale-przemyslowe/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/budynki-biurowe-i-uslugowe/",
+    "final": "https://www.building4you.pl/budynki-biurowe-i-uslugowe/",
+    "status": 200,
+    "title": "Budynki biurowe i us³ugowe – Building4you",
+    "h1": [
+      "Budynki biurowe i us³ugowe"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/budynki-biurowe-i-uslugowe/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/chlodnie-i-mroznie/",
+    "final": "https://www.building4you.pl/chlodnie-i-mroznie/",
+    "status": 200,
+    "title": "Ch³odnie i mroŸnie – Building4you",
+    "h1": [
+      "Ch³odnie i mroŸnie"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/chlodnie-i-mroznie/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/infrastruktura-techniczna/",
+    "final": "https://www.building4you.pl/infrastruktura-techniczna/",
+    "status": 200,
+    "title": "Infrastruktura techniczna – Building4you",
+    "h1": [
+      "Infrastruktura techniczna"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/infrastruktura-techniczna/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/projektowanie-hal-przemyslowych-produkcyjnych-magazynowych/",
+    "final": "https://www.building4you.pl/projektowanie-hal-przemyslowych-produkcyjnych-magazynowych/",
+    "status": 200,
+    "title": "Projektowanie obiektów – Building4you",
+    "h1": [
+      "Projektowanie obiektów"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/projektowanie-hal-przemyslowych-produkcyjnych-magazynowych/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/roboty-ziemne/",
+    "final": "https://www.building4you.pl/roboty-ziemne/",
+    "status": 200,
+    "title": "Roboty ziemne – Building4you",
+    "h1": [
+      "Roboty ziemne"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/roboty-ziemne/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/konstrukcje-stalowe/",
+    "final": "https://www.building4you.pl/konstrukcje-stalowe/",
+    "status": 200,
+    "title": "Konstrukcje stalowe – Building4you",
+    "h1": [
+      "Konstrukcje stalowe"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/konstrukcje-stalowe/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/wyburzenia-i-prace-rozbiorkowe/",
+    "final": "https://www.building4you.pl/wyburzenia-i-prace-rozbiorkowe/",
+    "status": 200,
+    "title": "Wyburzenia i prace rozbiórkowe – Building4you",
+    "h1": [
+      "Wyburzenia i prace rozbiórkowe"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/wyburzenia-i-prace-rozbiorkowe/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/oferta.html",
+    "final": "https://www.building4you.pl/oferta/",
+    "status": 200,
+    "title": "Oferta – Building4you",
+    "h1": [
+      "Zakres dzia³alnoœci"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/",
+    "final": "https://www.building4you.pl/realizacje/",
+    "status": 200,
+    "title": "Realizacje – Building4you",
+    "h1": [
+      "Realizacje"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/novmax.html",
+    "final": "https://www.building4you.pl/novmax/",
+    "status": 200,
+    "title": "NOVMAX – Building4you",
+    "h1": [
+      "NOVMAX"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/novmax/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/stalgast-etap-ii.html",
+    "final": "https://www.building4you.pl/stalgast-etap-ii/",
+    "status": 200,
+    "title": "STALGAST – Etap II – Building4you",
+    "h1": [
+      "STALGAST – Etap II"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/stalgast-etap-ii/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/warszawa-mokotow.html",
+    "final": "https://www.building4you.pl/warszawa-mokotow/",
+    "status": 200,
+    "title": "WARSZAWA MOKOTÓW – Building4you",
+    "h1": [
+      "WARSZAWA MOKOTÓW"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/warszawa-mokotow/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/mjm-jaroszynscy.html",
+    "final": "https://www.building4you.pl/mjm-jaroszynscy/",
+    "status": 200,
+    "title": "MJM JAROSZYÑSCY – Building4you",
+    "h1": [
+      "MJM JAROSZYÑSCY"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/mjm-jaroszynscy/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/elpes.html",
+    "final": "https://www.building4you.pl/elpes/",
+    "status": 200,
+    "title": "ELPES – Building4you",
+    "h1": [
+      "ELPES"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/elpes/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/peace.html",
+    "final": "https://www.building4you.pl/peace/",
+    "status": 200,
+    "title": "PEACE – Building4you",
+    "h1": [
+      "PEACE"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/peace/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/stalgast-etap-i.html",
+    "final": "https://www.building4you.pl/stalgast-etap-i/",
+    "status": 200,
+    "title": "STALGAST – Etap I – Building4you",
+    "h1": [
+      "STALGAST – Etap I"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/stalgast-etap-i/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/realizacje/boels-lomianki.html",
+    "final": "https://www.building4you.pl/boels-lomianki/",
+    "status": 200,
+    "title": "BOELS – £omianki – Building4you",
+    "h1": [
+      "BOELS – £omianki"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/boels-lomianki/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/pow-wolominski/",
+    "final": "https://www.building4you.pl/pow-wolominski/",
+    "status": 200,
+    "title": "pow. wo³omiñski – Building4you",
+    "h1": [
+      "pow. wo³omiñski"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/pow-wolominski/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/us-coat-sp-z-o-o/",
+    "final": "https://www.building4you.pl/us-coat-sp-z-o-o/",
+    "status": 200,
+    "title": "US-COAT SP. Z O.O. – Building4you",
+    "h1": [
+      "US-COAT SP. Z O.O."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/us-coat-sp-z-o-o/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/choszczowka/",
+    "final": "https://www.building4you.pl/choszczowka/",
+    "status": 200,
+    "title": "Choszczówka – Building4you",
+    "h1": [
+      "Choszczówka"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/choszczowka/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/fortuna-sp-z-o-o/",
+    "final": "https://www.building4you.pl/fortuna-sp-z-o-o/",
+    "status": 200,
+    "title": "FORTUNA SP. Z O.O. – Building4you",
+    "h1": [
+      "FORTUNA SP. Z O.O."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/fortuna-sp-z-o-o/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/polmlek-laktoferyna/",
+    "final": "https://www.building4you.pl/polmlek-laktoferyna/",
+    "status": 200,
+    "title": "POLMLEK SP. Z O.O. – LAKTOFERYNA – Building4you",
+    "h1": [
+      "POLMLEK SP. Z O.O. – LAKTOFERYNA"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/polmlek-laktoferyna/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/fano/",
+    "final": "https://www.building4you.pl/fano/",
+    "status": 200,
+    "title": "Fano Sp. z o.o. – Building4you",
+    "h1": [
+      "Fano Sp. z o.o."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/fano/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/animex-foods-sp-z-o-o/",
+    "final": "https://www.building4you.pl/animex-foods-sp-z-o-o/",
+    "status": 200,
+    "title": "ANIMEX FOODS SP. Z O.O. – Building4you",
+    "h1": [
+      "ANIMEX FOODS SP. Z O.O."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/animex-foods-sp-z-o-o/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/intrograf-lublin-s-a/",
+    "final": "https://www.building4you.pl/intrograf-lublin-s-a/",
+    "status": 200,
+    "title": "INTROGRAF-LUBLIN S.A. – Building4you",
+    "h1": [
+      "INTROGRAF-LUBLIN S.A."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/intrograf-lublin-s-a/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/ulma-construccion-polska-s-a/",
+    "final": "https://www.building4you.pl/ulma-construccion-polska-s-a/",
+    "status": 200,
+    "title": "ULMA CONSTRUCCION POLSKA S.A. – Building4you",
+    "h1": [
+      "ULMA CONSTRUCCION POLSKA S.A."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/ulma-construccion-polska-s-a/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/serafin-p-u-h-andrzej-serafin/",
+    "final": "https://www.building4you.pl/serafin-p-u-h-andrzej-serafin/",
+    "status": 200,
+    "title": "SERAFIN P.U.H. Andrzej Serafin – Building4you",
+    "h1": [
+      "SERAFIN P.U.H. Andrzej Serafin"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/serafin-p-u-h-andrzej-serafin/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/szczesniak-slawomir-zaklad-handlowo-uslugowy-2/",
+    "final": "https://www.building4you.pl/szczesniak-slawomir-zaklad-handlowo-uslugowy-2/",
+    "status": 200,
+    "title": "SZCZEŒNIAK S£AWOMIR ZAK£AD HANDLOWO-US£UGOWY – Building4you",
+    "h1": [
+      "SZCZEŒNIAK S£AWOMIR ZAK£AD HANDLOWO-US£UGOWY"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/szczesniak-slawomir-zaklad-handlowo-uslugowy-2/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/polmlek-sp-z-o-o/",
+    "final": "https://www.building4you.pl/polmlek-sp-z-o-o/",
+    "status": 200,
+    "title": "Polmlek Sp. z o.o. – Building4you",
+    "h1": [
+      "Polmlek Sp. z o.o."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/polmlek-sp-z-o-o/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/cintamani/",
+    "final": "https://www.building4you.pl/cintamani/",
+    "status": 200,
+    "title": "Cintamani Poland Majewscy i Koæ Sp.j. – Building4you",
+    "h1": [
+      "Cintamani Poland Majewscy i Koæ Sp.j."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/cintamani/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/heinz-glas-2/",
+    "final": "https://www.building4you.pl/heinz-glas-2/",
+    "status": 200,
+    "title": "Heinz Glas – Building4you",
+    "h1": [
+      "Heinz Glas"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/heinz-glas-2/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/metalchem-warszawa-s-a/",
+    "final": "https://www.building4you.pl/metalchem-warszawa-s-a/",
+    "status": 200,
+    "title": "Metalchem-Warszawa S.A. – Building4you",
+    "h1": [
+      "Metalchem-Warszawa S.A."
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/metalchem-warszawa-s-a/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/flesz/",
+    "final": "https://www.building4you.pl/flesz/",
+    "status": 200,
+    "title": "FLESZ – Building4you",
+    "h1": [
+      "FLESZ"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/flesz/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/o-nas/referencje.html",
+    "final": "https://www.building4you.pl/o-nas/referencje/",
+    "status": 200,
+    "title": "Referencje – Building4you",
+    "h1": [
+      "Budujemy d³ugotrwa³e relacje"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/o-nas/referencje/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/blog/generalne-wykonawstwo-budowlane-co-oznacza.html",
+    "final": "https://www.building4you.pl/generalne-wykonawstwo-budowlane-co-oznacza/",
+    "status": 200,
+    "title": "Generalne wykonawstwo – co dok³adnie oznacza i na czym polega? – Building4you",
+    "h1": [
+      "Generalne wykonawstwo – co dok³adnie oznacza i na czym polega?"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/generalne-wykonawstwo-budowlane-co-oznacza/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/szybka-wycena.html?view=article&id=86",
+    "final": "https://www.building4you.pl/kontakt/",
+    "status": 200,
+    "title": "Kontakt – Building4you",
+    "h1": [
+      "KONTAKT"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/kontakt/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/hale-produkcyjne/",
+    "final": "https://www.building4you.pl/hale-produkcyjne/",
+    "status": 200,
+    "title": "Hale produkcyjne – Building4you",
+    "h1": [
+      "Hale produkcyjne"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/hale-produkcyjne/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/hale-stalowe/",
+    "final": "https://www.building4you.pl/hale-stalowe/",
+    "status": 200,
+    "title": "Hale stalowe – Building4you",
+    "h1": [
+      "Hale stalowe"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/hale-stalowe/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/projekty-i-budowa-hal-magazynowych/",
+    "final": "https://www.building4you.pl/projekty-i-budowa-hal-magazynowych/",
+    "status": 200,
+    "title": "Projekty i budowa hal magazynowych – Building4you",
+    "h1": [
+      "Projekty i budowa hal magazynowych"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/projekty-i-budowa-hal-magazynowych/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/projekty-budynkow-biurowych-i-uslugowych/",
+    "final": "https://www.building4you.pl/projekty-budynkow-biurowych-i-uslugowych/",
+    "status": 200,
+    "title": "Projekty budynków biurowych i us³ugowych – Building4you",
+    "h1": [
+      "Projekty budynków biurowych i us³ugowych"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/projekty-budynkow-biurowych-i-uslugowych/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/budowa-hali-pod-klucz/",
+    "final": "https://www.building4you.pl/budowa-hali-pod-klucz/",
+    "status": 200,
+    "title": "Budowa hali pod klucz – Building4you",
+    "h1": [
+      "Budowa hali pod klucz"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/budowa-hali-pod-klucz/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/polityka-prywatnosci/",
+    "final": "https://www.building4you.pl/polityka-prywatnosci/",
+    "status": 200,
+    "title": "Polityka prywatnoœci – Building4you",
+    "h1": [
+      "Polityka prywatnoœci"
+    ],
+    "desc": [],
+    "canonical": [
+      "https://www.building4you.pl/polityka-prywatnosci/"
+    ],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "http://www.building4you.pl/",
+    "final": "http://www.building4you.pl/",
+    "status": 200,
+    "title": "Hale stalowe, hale przemys³owe – Building4you",
+    "h1": [
+      "Generalny wykonawca",
+      "Generalny wykonawca budowlany Building4you"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "http://building4you.pl/",
+    "final": "http://www.building4you.pl/",
+    "status": 200,
+    "title": "Hale stalowe, hale przemys³owe – Building4you",
+    "h1": [
+      "Generalny wykonawca",
+      "Generalny wykonawca budowlany Building4you"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://building4you.pl/",
+    "final": "https://www.building4you.pl/",
+    "status": 200,
+    "title": "Hale stalowe, hale przemys³owe – Building4you",
+    "h1": [
+      "Generalny wykonawca",
+      "Generalny wykonawca budowlany Building4you"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/robots.txt",
+    "final": "https://www.building4you.pl/robots.txt",
+    "status": 200,
+    "title": null,
+    "h1": null,
+    "desc": null,
+    "canonical": null,
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/wp-sitemap.xml",
+    "final": "https://www.building4you.pl/wp-sitemap.xml",
+    "status": 200,
+    "title": null,
+    "h1": null,
+    "desc": null,
+    "canonical": null,
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/sitemap_index.xml",
+    "final": "https://www.building4you.pl/sitemap_index.xml",
+    "status": 404,
+    "title": "Strona nie zosta³a znaleziona – Building4you",
+    "h1": [
+      "Building4you"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  },
+  {
+    "url": "https://www.building4you.pl/audyt-nieistniejaca-strona-20261027/",
+    "final": "https://www.building4you.pl/audyt-nieistniejaca-strona-20261027/",
+    "status": 404,
+    "title": "Strona nie zosta³a znaleziona – Building4you",
+    "h1": [
+      "Building4you"
+    ],
+    "desc": [],
+    "canonical": [],
+    "forms": 0,
+    "error": null
+  }
+]

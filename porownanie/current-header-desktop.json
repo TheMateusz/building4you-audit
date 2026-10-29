@@ -1,0 +1,60 @@
+{
+  "header": "<header class=\"b4y-header\">\n  <div class=\"b4y-wrap b4y-header-in\">\n    <div class=\"b4y-brand\">\n              <a href=\"https://www.building4you.pl/\" aria-label=\"Building4you\">BUILDING<span class=\"b4y-brand-four\">4</span>YOU</a>\n          </div>\n    <nav class=\"b4y-nav\" aria-label=\"Menu główne\">\n      <ul id=\"menu-building4you-menu-glowne\" class=\"b4y-menu\"><li id=\"menu-item-1025\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1025\"><a href=\"https://www.building4you.pl/?page_id=1020\">O nas</a>\n<ul class=\"sub-menu\">\n\t<li id=\"menu-item-1026\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1026\"><a href=\"https://www.building4you.pl/?page_id=1020\">O firmie</a></li>\n\t<li id=\"menu-item-1027\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1027\"><a href=\"https://www.building4you.pl/?page_id=1021\">Referencje</a></li>\n</ul>\n</li>\n<li id=\"menu-item-1028\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1028\"><a href=\"https://www.building4you.pl/?cat=5\">Realizacje</a></li>\n<li id=\"menu-item-1029\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1029\"><a href=\"https://www.building4you.pl/?cat=3\">Aktualności</a></li>\n<li id=\"menu-item-1031\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1031\"><a href=\"https://www.building4you.pl/?cat=4\">Oferta</a></li>\n<li id=\"menu-item-1030\" class=\"menu-item menu-item-type-custom menu-item-object-custom menu-item-1030\"><a href=\"https://www.building4you.pl/?cat=10\">Blog</a></li>\n<li id=\"menu-item-1058\" class=\"menu-item menu-item-type-post_type menu-item-object-page menu-item-1058\"><a href=\"https://www.building4you.pl/kontakt/\">Kontakt</a></li>\n</ul>    </nav>\n  </div>\n</header>",
+  "headerStyle": {
+    "height": 95,
+    "position": "fixed"
+  },
+  "links": [
+    {
+      "font": "Arial, Helvetica, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "750",
+      "href": "https://www.building4you.pl/?page_id=1020",
+      "padding": "17px 14px",
+      "text": "O nas"
+    },
+    {
+      "font": "Arial, Helvetica, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "750",
+      "href": "https://www.building4you.pl/?cat=5",
+      "padding": "17px 14px",
+      "text": "Realizacje"
+    },
+    {
+      "font": "Arial, Helvetica, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "750",
+      "href": "https://www.building4you.pl/?cat=3",
+      "padding": "17px 14px",
+      "text": "Aktualności"
+    },
+    {
+      "font": "Arial, Helvetica, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "750",
+      "href": "https://www.building4you.pl/?cat=4",
+      "padding": "17px 14px",
+      "text": "Oferta"
+    },
+    {
+      "font": "Arial, Helvetica, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "750",
+      "href": "https://www.building4you.pl/?cat=10",
+      "padding": "17px 14px",
+      "text": "Blog"
+    },
+    {
+      "font": "Arial, Helvetica, sans-serif",
+      "fontSize": "12px",
+      "fontWeight": "750",
+      "href": "https://www.building4you.pl/kontakt/",
+      "padding": "17px 14px",
+      "text": "Kontakt"
+    }
+  ],
+  "offerChildren": 0,
+  "url": "https://www.building4you.pl/",
+  "width": 1280
+}

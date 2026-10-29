@@ -1,0 +1,22 @@
+(function(){
+  if (!document.body.classList.contains('b4y-service-page')) return;
+  var root=document.body, header=document.querySelector('.b4y-header');
+  function updateNav(){root.classList.toggle('b4y-service-scrolled',window.scrollY>75);}
+  updateNav();
+  window.addEventListener('scroll',updateNav,{passive:true});
+  if (header) header.classList.add('b4y-service-header');
+  var photo=document.querySelector('.b4y-service-parallax');
+  if (!photo || !('requestAnimationFrame' in window) || window.matchMedia('(prefers-reduced-motion:reduce)').matches) return;
+  var scheduled=false;
+  function move(){
+    scheduled=false;
+    var r=photo.getBoundingClientRect();
+    var middle=(r.top+r.height/2-window.innerHeight/2)/Math.max(window.innerHeight,1);
+    var percent=Math.max(40,Math.min(60,50-middle*13));
+    photo.style.setProperty('--b4y-photo-position',percent.toFixed(1)+'%');
+  }
+  function schedule(){if(!scheduled){scheduled=true;requestAnimationFrame(move);}}
+  move();
+  window.addEventListener('scroll',schedule,{passive:true});
+  window.addEventListener('resize',schedule,{passive:true});
+})();

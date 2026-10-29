@@ -1,0 +1,498 @@
+{
+  "unique_https_pages": 72,
+  "missing_description": 72,
+  "missing_canonical": [
+    "https://www.building4you.pl/",
+    "https://www.building4you.pl/realizacje/",
+    "https://www.building4you.pl/aktualnosci/",
+    "https://www.building4you.pl/oferta/",
+    "https://www.building4you.pl/blog/",
+    "https://www.building4you.pl/realizacje/page/2/",
+    "https://www.building4you.pl/realizacje/page/3/",
+    "https://www.building4you.pl/aktualnosci/page/2/",
+    "https://www.building4you.pl/aktualnosci/page/3/",
+    "https://www.building4you.pl/blog/page/2/"
+  ],
+  "jsonld_pages": 0,
+  "forms": 0,
+  "tracking_patterns": [],
+  "csp_meta": [],
+  "duplicate_paragraphs": [
+    {
+      "url": "https://www.building4you.pl/hale-przemyslowe/",
+      "duplicates": [
+        {
+          "paragraph": "Budowa hali przemysłowej to jeden z ważniejszych etapów biznesu z punktu widzenia Inwestora. To właśnie w tym momencie projekt staje się widoczną przestrzenią dla każdego przedsiębiorstwa. Proces budowy musi zostać przeprowadzony w sposób kompleksowy i profesjonalny. Jesteśmy generalnym wykonawcą. Budujemy hale o różnych wymiarach, a także wykonujemy je z odpowiednio wyselekcjonowanych materiałów.",
+          "count": 2
+        },
+        {
+          "paragraph": "Hale przemysłowe to szeroka dziedzina, w zakresie której możemy mówić o bardzo zróżnicowanych obiektach – zarówno pod względem parametrów, jak i wykorzystania.",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "url": "https://www.building4you.pl/projekty-i-budowa-hal-magazynowych/",
+      "duplicates": [
+        {
+          "paragraph": "Niezwykle istotna jest dla nas kwestia bezpieczeństwa ofertowanych przez nas rozwiązań konstrukcyjnych i technologicznych. Mamy do dyspozycji kilka rozwiązań, każde z nich jest starannie przeanalizowane i dobrane pod kątem budowanego obiektu. Jednak bardzo dużo zależy od samej funkcji i przeznaczenia obiektu.",
+          "count": 2
+        }
+      ]
+    },
+    {
+      "url": "https://www.building4you.pl/budowa-hali-pod-klucz/",
+      "duplicates": [
+        {
+          "paragraph": "building4you jako generalny wykonawca inwestycji przemysłowych buduje „ hale pod klucz ”. Jednak w przypadku określenia „ hale pod klucz ” wykończenie nabiera różnego wymiaru. Nie bez znaczenia jest przeznaczenie budowanego obiektu. Określenie hali stalowej wykończonej „ pod klucz ” co innego oznacza w przypadku hali magazynowej , a co innego w przypadku hali produkcyjnej a jeszcze inaczej wygląda to w hali rolniczej . W tym miejscu należy najpierw skupić się  na przeznaczeniu hali, a następnie na jej wyposażeniu odpowiednio dobremu do przeznaczenia hali przemysłowej. Dopiero wtedy  możemy osiągnąć stan hali przemysłowej „pod klucz”.",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "scripts": [
+    "https://www.building4you.pl/wp-content/mu-plugins/b4y-service-fix/parallax.js?ver=1792667078",
+    "https://www.building4you.pl/wp-content/mu-plugins/b4y-services/service-tune.js?ver=1792660241",
+    "https://www.building4you.pl/wp-content/mu-plugins/b4y-services/service.js?ver=1792653777",
+    "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-contact/contact.js?ver=1792674012",
+    "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-home-original/sections.js?ver=1792669860",
+    "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-home/home.js?ver=1792668799",
+    "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-home/typed.js?ver=1778448247",
+    "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-oferta-original-icons.js?ver=1792651495",
+    "https://www.building4you.pl/wp-content/themes/building4you-wp/b4y-repair/project-carousel.js?ver=1792672253"
+  ],
+  "page_inventory": [
+    {
+      "url": "https://www.building4you.pl/",
+      "status": 200,
+      "title": "Hale stalowe, hale przemysłowe – Building4you",
+      "file": "6c58a03ef8b7.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/o-nas/",
+      "status": 200,
+      "title": "O firmie – Building4you",
+      "file": "82863bc7ff1f.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/o-nas/referencje/",
+      "status": 200,
+      "title": "Referencje – Building4you",
+      "file": "95193cf035f7.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/realizacje/",
+      "status": 200,
+      "title": "Realizacje – Building4you",
+      "file": "7d8fc570a485.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/aktualnosci/",
+      "status": 200,
+      "title": "Aktualności – Building4you",
+      "file": "555787998cdc.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/oferta/",
+      "status": 200,
+      "title": "Oferta – Building4you",
+      "file": "2edc9dcc3048.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/blog/",
+      "status": 200,
+      "title": "Blog – Building4you",
+      "file": "af6af3d1aefe.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/kontakt/",
+      "status": 200,
+      "title": "Kontakt – Building4you",
+      "file": "91b5cde42c67.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/hale-przemyslowe/",
+      "status": 200,
+      "title": "Hale przemysłowe – Building4you",
+      "file": "39637a95b55b.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/budynki-biurowe-i-uslugowe/",
+      "status": 200,
+      "title": "Budynki biurowe i usługowe – Building4you",
+      "file": "6ddeb95169a7.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/chlodnie-i-mroznie/",
+      "status": 200,
+      "title": "Chłodnie i mroźnie – Building4you",
+      "file": "4de0ba81219c.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/infrastruktura-techniczna/",
+      "status": 200,
+      "title": "Infrastruktura techniczna – Building4you",
+      "file": "a459ca751998.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/projektowanie-hal-przemyslowych-produkcyjnych-magazynowych/",
+      "status": 200,
+      "title": "Projektowanie obiektów – Building4you",
+      "file": "4d30a3f49ef9.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/roboty-ziemne/",
+      "status": 200,
+      "title": "Roboty ziemne – Building4you",
+      "file": "728262bac5ee.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/konstrukcje-stalowe/",
+      "status": 200,
+      "title": "Konstrukcje stalowe – Building4you",
+      "file": "a7f6ad1c8102.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/wyburzenia-i-prace-rozbiorkowe/",
+      "status": 200,
+      "title": "Wyburzenia i prace rozbiórkowe – Building4you",
+      "file": "500867455384.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/novmax/",
+      "status": 200,
+      "title": "NOVMAX – Building4you",
+      "file": "14ec3d975a9f.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/stalgast-etap-ii/",
+      "status": 200,
+      "title": "STALGAST – Etap II – Building4you",
+      "file": "a6927bb833fa.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/warszawa-mokotow/",
+      "status": 200,
+      "title": "WARSZAWA MOKOTÓW – Building4you",
+      "file": "6c173827da28.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/mjm-jaroszynscy/",
+      "status": 200,
+      "title": "MJM JAROSZYŃSCY – Building4you",
+      "file": "ccad3c144d51.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/elpes/",
+      "status": 200,
+      "title": "ELPES – Building4you",
+      "file": "e375a46a17d4.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/peace/",
+      "status": 200,
+      "title": "PEACE – Building4you",
+      "file": "0ef733da539c.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/stalgast-etap-i/",
+      "status": 200,
+      "title": "STALGAST – Etap I – Building4you",
+      "file": "d08ac7251f32.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/boels-lomianki/",
+      "status": 200,
+      "title": "BOELS – Łomianki – Building4you",
+      "file": "3c83554cbe86.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/pow-wolominski/",
+      "status": 200,
+      "title": "pow. wołomiński – Building4you",
+      "file": "3614991403d4.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/us-coat-sp-z-o-o/",
+      "status": 200,
+      "title": "US-COAT SP. Z O.O. – Building4you",
+      "file": "d8f5c8300e76.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/choszczowka/",
+      "status": 200,
+      "title": "Choszczówka – Building4you",
+      "file": "2086d012d17b.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/fortuna-sp-z-o-o/",
+      "status": 200,
+      "title": "FORTUNA SP. Z O.O. – Building4you",
+      "file": "617526e6639f.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/polmlek-laktoferyna/",
+      "status": 200,
+      "title": "POLMLEK SP. Z O.O. – LAKTOFERYNA – Building4you",
+      "file": "34f6b08f63a0.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/fano/",
+      "status": 200,
+      "title": "Fano Sp. z o.o. – Building4you",
+      "file": "6604af5cfa5d.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/animex-foods-sp-z-o-o/",
+      "status": 200,
+      "title": "ANIMEX FOODS SP. Z O.O. – Building4you",
+      "file": "2cdec48b87e2.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/intrograf-lublin-s-a/",
+      "status": 200,
+      "title": "INTROGRAF-LUBLIN S.A. – Building4you",
+      "file": "9874eddf01d3.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/ulma-construccion-polska-s-a/",
+      "status": 200,
+      "title": "ULMA CONSTRUCCION POLSKA S.A. – Building4you",
+      "file": "df4024fe8492.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/serafin-p-u-h-andrzej-serafin/",
+      "status": 200,
+      "title": "SERAFIN P.U.H. Andrzej Serafin – Building4you",
+      "file": "18424139222f.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/szczesniak-slawomir-zaklad-handlowo-uslugowy-2/",
+      "status": 200,
+      "title": "SZCZEŚNIAK SŁAWOMIR ZAKŁAD HANDLOWO-USŁUGOWY – Building4you",
+      "file": "345f633a9249.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/polmlek-sp-z-o-o/",
+      "status": 200,
+      "title": "Polmlek Sp. z o.o. – Building4you",
+      "file": "53c1a22e0887.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/cintamani/",
+      "status": 200,
+      "title": "Cintamani Poland Majewscy i Koć Sp.j. – Building4you",
+      "file": "e9ab71d528e9.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/heinz-glas-2/",
+      "status": 200,
+      "title": "Heinz Glas – Building4you",
+      "file": "060034ae2f5c.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/metalchem-warszawa-s-a/",
+      "status": 200,
+      "title": "Metalchem-Warszawa S.A. – Building4you",
+      "file": "dd9c2e941f89.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/flesz/",
+      "status": 200,
+      "title": "FLESZ – Building4you",
+      "file": "a8bd7e2d2707.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/generalne-wykonawstwo-budowlane-co-oznacza/",
+      "status": 200,
+      "title": "Generalne wykonawstwo – co dokładnie oznacza i na czym polega? – Building4you",
+      "file": "6a86a3b2e106.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/hale-produkcyjne/",
+      "status": 200,
+      "title": "Hale produkcyjne – Building4you",
+      "file": "95297c4d674c.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/hale-stalowe/",
+      "status": 200,
+      "title": "Hale stalowe – Building4you",
+      "file": "d809b7e4c02b.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/projekty-i-budowa-hal-magazynowych/",
+      "status": 200,
+      "title": "Projekty i budowa hal magazynowych – Building4you",
+      "file": "a6f987585edb.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/projekty-budynkow-biurowych-i-uslugowych/",
+      "status": 200,
+      "title": "Projekty budynków biurowych i usługowych – Building4you",
+      "file": "b726d82f2bcf.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/budowa-hali-pod-klucz/",
+      "status": 200,
+      "title": "Budowa hali pod klucz – Building4you",
+      "file": "6841f49dea92.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/polityka-prywatnosci/",
+      "status": 200,
+      "title": "Polityka prywatności – Building4you",
+      "file": "b29cc22d00f3.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/realizacje/page/2/",
+      "status": 200,
+      "title": "Realizacje – Strona 2 – Building4you",
+      "file": "2457140d1fc3.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/realizacje/page/3/",
+      "status": 200,
+      "title": "Realizacje – Strona 3 – Building4you",
+      "file": "35ad4571f9fc.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/inwestycja-w-powiecie-plonskim/",
+      "status": 200,
+      "title": "Nowa inwestycja w powiecie płońskim! – Building4you",
+      "file": "686bc2e163ac.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/choszczowka-2/",
+      "status": 200,
+      "title": "Nowa inwestycja w Choszczówce! – Building4you",
+      "file": "6b711ac12da0.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-laktoferyna/",
+      "status": 200,
+      "title": "Zgoda na użytkowanie – hala do pozyskiwania laktoferyny gotowa do pracy – Building4you",
+      "file": "78c325f83c92.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/nowa-inwestycja-w-woj-mazowieckim-laktoferyna/",
+      "status": 200,
+      "title": "Kolejna inwestycja w woj. warmińsko-mazurskim! – Building4you",
+      "file": "0163345cdfb5.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/nowa-inwestycja-w-woj-mazowieckim/",
+      "status": 200,
+      "title": "Nowa inwestycja w woj. mazowieckim! – Building4you",
+      "file": "cda3cd206d15.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/nowa-inwestycja-w-woj-lodzkim/",
+      "status": 200,
+      "title": "Nowa inwestycja w woj. łódzkim! – Building4you",
+      "file": "81d5409d40ff.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-dla-ulma-construccion-polska-s-a/",
+      "status": 200,
+      "title": "Pozwolenie na użytkowanie dla ULMA CONSTRUCCION POLSKA S.A. – Building4you",
+      "file": "96be9ea62430.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/kolejna-inwestycja-w-lublinie/",
+      "status": 200,
+      "title": "Kolejna inwestycja w Lublinie! – Building4you",
+      "file": "e529af7a4ab4.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/budowa-wiaty-w-koszajcu/",
+      "status": 200,
+      "title": "Budowa zadaszenia na placu składowym – Building4you",
+      "file": "3890f6a4be3e.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/pozwolenie-na-uzytkowanie-dla-cintamani-poland-majewscy-i-koc-sp-j/",
+      "status": 200,
+      "title": "Pozwolenie na użytkowanie dla Cintamani Poland Majewscy i Koć Sp. J. – Building4you",
+      "file": "f7b60bc28b7d.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/aktualnosci/page/2/",
+      "status": 200,
+      "title": "Aktualności – Strona 2 – Building4you",
+      "file": "e2556d6f2cf9.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/aktualnosci/page/3/",
+      "status": 200,
+      "title": "Aktualności – Strona 3 – Building4you",
+      "file": "27708ab0b292.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/konstrukcje-zelbetowe/",
+      "status": 200,
+      "title": "Konstrukcje żelbetowe – Building4you",
+      "file": "5b4f24ebbc9d.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/budowa-hali-przemyslowej-od-koncepcji-do-realizacji/",
+      "status": 200,
+      "title": "Budowa hali przemysłowej – od koncepcji do realizacji – Building4you",
+      "file": "e5f1625527dc.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/jak-wybrac-odpowiedniego-wykonawce-generalnego-dla-twojego-projektu-budowlanego/",
+      "status": 200,
+      "title": "Jak wybrać odpowiedniego wykonawcę generalnego dla Twojego projektu budowlanego? – Building4you",
+      "file": "e340a7390b87.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/kluczowe-role-i-odpowiedzialnosci-wykonawcy-generalnego-w-budownictwie/",
+      "status": 200,
+      "title": "Kluczowe role i odpowiedzialności wykonawcy generalnego w budownictwie – Building4you",
+      "file": "de7f6a33fe4f.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/generalne-wykonawstwo-od-projektu-po-ostateczne-ukonczenie/",
+      "status": 200,
+      "title": "Generalne wykonawstwo od projektu po ostateczne ukończenie – Building4you",
+      "file": "14e2c8623193.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/zasady-bhp-podczas-prac-rozbiorkowych/",
+      "status": 200,
+      "title": "Zasady BHP podczas prac rozbiórkowych – Building4you",
+      "file": "958e6286f263.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/prace-rozbiorkowe-podstawowe-zasady-zakres-i-sposoby-prowadzenia/",
+      "status": 200,
+      "title": "Prace rozbiórkowe – podstawowe zasady, zakres i sposoby prowadzenia – Building4you",
+      "file": "f263dc2a7e88.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/dzialka-budowlana-wszystko-co-musisz-widziec-przed-rozpoczeciem-prac/",
+      "status": 200,
+      "title": "Działka budowlana – wszystko, co musisz wiedzieć, przed rozpoczęciem prac – Building4you",
+      "file": "1337474bb6fa.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/jak-zrobic-piwniczke-pod-schodami/",
+      "status": 200,
+      "title": "Jak zrobić piwniczkę pod schodami? – Building4you",
+      "file": "6541aaf55edb.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/dzialka-pod-budowe-hali-co-warto-sprawdzic-przed-zakupem/",
+      "status": 200,
+      "title": "Działka pod budowę hali – co warto sprawdzić przed zakupem? – Building4you",
+      "file": "f5ba79a56bf1.txt"
+    },
+    {
+      "url": "https://www.building4you.pl/blog/page/2/",
+      "status": 200,
+      "title": "Blog – Strona 2 – Building4you",
+      "file": "0d78c09f38e5.txt"
+    }
+  ]
+}

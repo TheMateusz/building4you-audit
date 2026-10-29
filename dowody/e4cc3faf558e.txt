@@ -1,0 +1,11 @@
+(function(){'use strict';function init(){
+ var track=document.querySelector('.b4y-home-project-track');if(!track)return;
+ var prev=document.querySelector('.b4y-projects-prev');
+ var next=document.querySelector('.b4y-projects-next');
+ function move(direction){var card=track.querySelector('.b4y-rebuilt-project-card');
+  var step=card?card.getBoundingClientRect().width+15:350;
+  track.scrollBy({left:step*direction,behavior:'smooth'});}
+ if(prev)prev.addEventListener('click',function(){move(-1)});
+ if(next)next.addEventListener('click',function(){move(1)});
+}
+if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init);else init();})();

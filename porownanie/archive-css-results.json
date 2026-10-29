@@ -1,0 +1,47 @@
+[
+  {
+    "original": "https://www.building4you.pl/templates/building4you/assets/css/bootstrap.min.css",
+    "requested": "https://web.archive.org/web/20260513010843id_/https://www.building4you.pl/templates/building4you/assets/css/bootstrap.min.css",
+    "final": "https://web.archive.org/web/20231219051523id_/https://www.building4you.pl/templates/building4you/assets/css/bootstrap.min.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 159515,
+    "file": "archive-2e674bba86.css"
+  },
+  {
+    "original": "https://www.building4you.pl/templates/building4you/assets/css/A.custom.css,q2025b.pagespeed.cf.wUmjz9RfMQ.css",
+    "requested": "https://web.archive.org/web/20260513010843id_/https://www.building4you.pl/templates/building4you/assets/css/A.custom.css,q2025b.pagespeed.cf.wUmjz9RfMQ.css",
+    "final": "https://web.archive.org/web/20260513010843id_/https://www.building4you.pl/templates/building4you/assets/css/A.custom.css,q2025b.pagespeed.cf.wUmjz9RfMQ.css",
+    "status": 404,
+    "type": "text/html",
+    "bytes": 4750,
+    "file": "archive-0959838129.css"
+  },
+  {
+    "original": "https://www.building4you.pl/templates/building4you/assets/css/A.rwd.css.pagespeed.cf.7jB4dFoaSM.css",
+    "requested": "https://web.archive.org/web/20260513010843id_/https://www.building4you.pl/templates/building4you/assets/css/A.rwd.css.pagespeed.cf.7jB4dFoaSM.css",
+    "final": "https://web.archive.org/web/20231219042033id_/https://www.building4you.pl/templates/building4you/assets/css/A.rwd.css.pagespeed.cf.7jB4dFoaSM.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 10598,
+    "file": "archive-b30d6e87f2.css"
+  },
+  {
+    "original": "https://www.building4you.pl/templates/building4you/css/A.djmegamenu.css,q4.1.2.pro.pagespeed.cf.jHkGL0myo-.css",
+    "requested": "https://web.archive.org/web/20260513010843id_/https://www.building4you.pl/templates/building4you/css/A.djmegamenu.css,q4.1.2.pro.pagespeed.cf.jHkGL0myo-.css",
+    "final": "https://web.archive.org/web/20231219045300id_/https://www.building4you.pl/templates/building4you/css/A.djmegamenu.css,q4.1.2.pro.pagespeed.cf.jHkGL0myo-.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 13103,
+    "file": "archive-820fe29d56.css"
+  },
+  {
+    "original": "https://www.building4you.pl/templates/building4you/css/A.djmobilemenu.css,q4.1.2.pro.pagespeed.cf.aJwW48S4Zw.css",
+    "requested": "https://web.archive.org/web/20260513010843id_/https://www.building4you.pl/templates/building4you/css/A.djmobilemenu.css,q4.1.2.pro.pagespeed.cf.aJwW48S4Zw.css",
+    "final": "https://web.archive.org/web/20231219042549id_/https://www.building4you.pl/templates/building4you/css/A.djmobilemenu.css,q4.1.2.pro.pagespeed.cf.aJwW48S4Zw.css",
+    "status": 200,
+    "type": "text/css",
+    "bytes": 5841,
+    "file": "archive-c151571615.css"
+  }
+]

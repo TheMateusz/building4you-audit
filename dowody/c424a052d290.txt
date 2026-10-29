@@ -1,0 +1,33 @@
+(function () {
+  'use strict';
+  function start() {
+    const hero = document.querySelector('.b4y-home-video');
+    if (!hero) return;
+    const updateHeader = function () {
+      document.body.classList.toggle('b4y-home-scrolled', window.scrollY > 110);
+    };
+    updateHeader();
+    window.addEventListener('scroll', updateHeader, { passive: true });
+    const media = document.querySelector('.b4y-home-video-element');
+    if (media) {
+      media.muted = true;
+      const playing = media.play();
+      if (playing && typeof playing.catch === 'function') playing.catch(function () {});
+    }
+    const texts = window.B4Y_HOME_STRINGS || {};
+    let strings = window.innerWidth < 992 ? texts.mobile : texts.desktop;
+    if (!Array.isArray(strings) || !strings.length) strings = texts.desktop || [];
+    if (window.Typed && strings.length) {
+      new window.Typed('#b4y-home-typed', {
+        strings: strings,
+        typeSpeed: 50,
+        backDelay: 3000,
+        startDelay: 1000,
+        loop: true,
+        contentType: 'html'
+      });
+    }
+  }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', start);
+  else start();
+}());

@@ -1,0 +1,58 @@
+[
+  {
+    "run": "A",
+    "device": "Telefon",
+    "FCP": "1,2 s",
+    "LCP": "NO_LCP",
+    "TBT": "NO_LCP",
+    "CLS": "0,054",
+    "SI": "2,4 s",
+    "payload_kib": 10524,
+    "performance": null,
+    "accessibility": 96,
+    "best_practices": 100,
+    "seo": 92
+  },
+  {
+    "run": "A",
+    "device": "Komputer",
+    "FCP": "0,3 s",
+    "LCP": "NO_LCP",
+    "TBT": "NO_LCP",
+    "CLS": "0,081",
+    "SI": "0,3 s",
+    "payload_kib": 10621,
+    "performance": null,
+    "accessibility": 96,
+    "best_practices": 100,
+    "seo": 92
+  },
+  {
+    "run": "B",
+    "device": "Telefon",
+    "FCP": "1,2 s",
+    "LCP": "NO_LCP",
+    "TBT": "NO_LCP",
+    "CLS": "0,070",
+    "SI": "1,2 s",
+    "payload_kib": 9239,
+    "performance": null,
+    "accessibility": 96,
+    "best_practices": 100,
+    "seo": 92
+  },
+  {
+    "run": "B",
+    "device": "Komputer",
+    "FCP": "0,3 s",
+    "LCP": "NO_LCP",
+    "TBT": "NO_LCP",
+    "CLS": "0,081",
+    "SI": "0,4 s",
+    "payload_kib": 10621,
+    "performance": null,
+    "accessibility": 96,
+    "best_practices": 100,
+    "seo": 92
+  }
+]

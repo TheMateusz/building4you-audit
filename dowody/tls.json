@@ -1,0 +1,61 @@
+{
+  "version": "TLSv1.3",
+  "cipher": [
+    "TLS_AES_256_GCM_SHA384",
+    "TLSv1.3",
+    256
+  ],
+  "certificate": {
+    "subject": [
+      [
+        [
+          "commonName",
+          "building4you.pl"
+        ]
+      ]
+    ],
+    "issuer": [
+      [
+        [
+          "countryName",
+          "PL"
+        ]
+      ],
+      [
+        [
+          "organizationName",
+          "nazwa.pl Sp. z o.o."
+        ]
+      ],
+      [
+        [
+          "commonName",
+          "nazwaSSL DV TLS G2 R29 CA"
+        ]
+      ]
+    ],
+    "version": 3,
+    "serialNumber": "03AB239D7CBE8E1E6B7D24E7166BF9B8",
+    "notBefore": "Dec  5 10:00:21 2025 GMT",
+    "notAfter": "Dec  4 00:00:00 2026 GMT",
+    "subjectAltName": [
+      [
+        "DNS",
+        "building4you.pl"
+      ],
+      [
+        "DNS",
+        "www.building4you.pl"
+      ]
+    ],
+    "OCSP": [
+      "http://nazwassldvtlsg2r29ca.ocsp-certum.com"
+    ],
+    "caIssuers": [
+      "http://nazwassldvtlsg2r29ca.repository.certum.pl/nazwassldvtlsg2r29ca.cer"
+    ],
+    "crlDistributionPoints": [
+      "http://nazwassldvtlsg2r29ca.crl.certum.pl/nazwassldvtlsg2r29ca.crl"
+    ]
+  }
+}
